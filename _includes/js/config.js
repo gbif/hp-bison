@@ -9,7 +9,7 @@ var siteConfig = {
    		{
         "type": "in",
         "key": "countryCode",
-        "values": ["US", "UM"]
+        "values": ["US", "UM", "AS", "FM", "GU", "MH", "MP", "PR", "PW", "VI"]
       },
       {
         "type": "equals",
