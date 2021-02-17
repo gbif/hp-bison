@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Biodiversity Information Serving Our Nation (BISON)
 description: Species observations for the United States and U.S. Territories.
-background: https://github.com/gbif/hp-bison/blob/master/assets/images/Ecosystems_Example2.png
+background: /assets/images/Ecosystems_Example2.png
 imageLicense:
 cta:
   - text: Start exploring
