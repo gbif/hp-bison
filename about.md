@@ -2,9 +2,9 @@
 lang-ref: about
 title: About
 description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/moss.jpg
+background: /assets/images/bison_inat_tuoichen.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by tuoichen via [gbif.org](https://www.gbif.org/occurrence/2611156916)
 height: 70vh
 ---
 
