@@ -25,3 +25,6 @@ height: 70vh
 
 #### What is the geographic, temporal, and taxonomic scope of the data available?
 > The occurrences (both presence and absence) available in BISON are located in the United States, U.S. Territories, and Exclusive Economic Zones and from any time period and not limited to any specific taxon or organism.
+
+#### Who determines the scientific names used in BISON? What is the taxonomic authority?
+> The BISON hosted portal backbone taxonomy is currently the [GBIF Backbone Taxonomy](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). More information about the GBIF Backbone Taxonomy can be found [here](https://data-blog.gbif.org/post/gbif-backbone-taxonomy/).
