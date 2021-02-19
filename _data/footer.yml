@@ -2,7 +2,7 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-#columns:
+columns:
 #  - name: Partners
 #    links:
 #    - text: Name of project partner 1
