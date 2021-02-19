@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Biodiversity Information Serving Our Nation (BISON)
 description: Species observations for the United States and U.S. Territories.
-background: /assets/images/Ecosystems_Example2.png
+background: /assets/images/US_Biodiversity.png
 imageLicense: |
   Photo collage by Rebecca D. Uribe & Elizabeth Martín, U.S. Geological Survey.
 cta:
