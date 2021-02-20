@@ -2,7 +2,7 @@
 lang-ref: faq
 title: Frequently Asked Questions
 description: This page provides answers to frequently asked questions related to BISON.
-background: /assets/images/golden_mantle_ground_squirrel2.jpg
+background: /assets/images/Colorado_Scenery.jpg
 imageLicense: |
   Photo by Abby Benson
 height: 70vh
