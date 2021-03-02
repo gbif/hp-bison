@@ -15,6 +15,6 @@ cta:
 permalink: /
 ---
 
-This pilot implementation of a GBIF national data portal for the United States is part of the Biodiversity Information Serving Our Nation (BISON) project’s suite of data and information resources managed by the [Science Analytics and Synthesis (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Program of the U.S. Geological Survey (USGS). It serves as an access point to species occurrence data (presence and absence) for the United States and U.S. Territories. 
+This pilot implementation of a GBIF national data portal for the United States is part of the Biodiversity Information Serving Our Nation (BISON) project’s suite of biodiversity data and information resources managed by the [Science Analytics and Synthesis (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Program of the U.S. Geological Survey (USGS). It serves as an access point to species occurrence data (presence and absence) for the United States and U.S. Territories.  
 
 
