@@ -6,7 +6,7 @@ description: Species occurrences for the United States and U.S. Territories.
 background: /assets/images/US_Biodiversity.png
 imageLicense: |
   Photo collage by Rebecca D. Uribe & Elizabeth Martín, U.S. Geological Survey.
-  height: 70vh
+height: 70vh
 cta:
   - text: Start exploring
     href: /data
