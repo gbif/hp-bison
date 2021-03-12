@@ -1,3 +1,9 @@
 @import "theme/_main";
 
 // You can add additional styling here
+
+.floatingHero.home {
+  .feature-img {
+    background-position: top;
+  }
+}
