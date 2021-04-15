@@ -21,7 +21,7 @@ height: 70vh
 > Publishers that wish to be endorsed by the U.S. Node to GBIF (GBIF-US) need to meet four criteria. They need to: 1) Provide evidence of a mechanism for publishing their data, 2) Identify a specific point of contact responsible for the organization's GBIF contributions, 3) Demonstrate a commitment to respond in a timely manner to feedback, and 4) Commit to improve data quality.
 
 #### What are the sources of the data that are available?
-> The datasets available through BISON can be found [here](https://hp-bison.gbif-staging.org/data?view=dataset).
+> The datasets available through BISON can be found [here](https://hp-bison.gbif-staging.org/data?view=DATASETS).
 
 #### What is the geographic, temporal, and taxonomic scope of the data available?
 > The occurrences (both presence and absence) available in BISON are located in the United States, U.S. Territories and Exclusive Economic Zones, and are from any time period and not limited to any specific taxon or organism. 
@@ -30,7 +30,7 @@ height: 70vh
 > The BISON hosted portal backbone taxonomy is currently the [GBIF Backbone Taxonomy](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). More information about the GBIF Backbone Taxonomy can be found [here](https://data-blog.gbif.org/post/gbif-backbone-taxonomy/).
 
 #### How do I search for data by state or county?
-> From the [Data tab](https://hp-bison.gbif-staging.org/data?view=dataset) click "more" next to "Issues and flags" in the selection buttons and choose "Administrative area". In the search box, begin typing the state or county of interest and select the one you are interested in from the options provided and then click "Apply".
+> From the [Data tab](https://hp-bison.gbif-staging.org/data?view=DATASETS) click "more" next to "Issues and flags" in the selection buttons and choose "Administrative area". In the search box, begin typing the state or county of interest and select the one you are interested in from the options provided and then click "Apply".
 
 #### Can I download the results of my search?
 > It is not currently possible to download results from a search but this feature is coming soon. Stay tuned!
