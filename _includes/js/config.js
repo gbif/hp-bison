@@ -8,7 +8,7 @@ var siteConfig = {
     "predicates": [
    		{
         "type": "in",
-        "key": "countryCode",
+        "key": "country",
         "values": ["US", "UM", "AS", "FM", "GU", "MH", "MP", "PR", "PW", "VI"]
       },
       {
