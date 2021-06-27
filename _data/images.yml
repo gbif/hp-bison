@@ -1,0 +1,9 @@
+# SOME NOTES TO MAKE THESE CONSISTENT:
+# name: use the common name underneath the scientific name at the top of the GBIF occurrence page; remove all spaces, dashes, etc.
+#   src: use the "Identifier" link associated with the image on the GBIF occurrence page
+#   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence
+
+BluenoseShiner:
+  src: https://www.flickr.com/photos/myfwcmedia/49069489466/sizes/l/
+  caption: "Bluenose shiner - Florida Fish and Wildlife Conservation Commission photo via Flickr (CC BY-NC-ND 2.0)"
+
