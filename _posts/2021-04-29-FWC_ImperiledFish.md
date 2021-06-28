@@ -2,7 +2,7 @@
 title: "FWC Florida Imperiled Fish Species Investigation - 2001-2004 dataset published"
 date:   2021-04-29 14:00:00 -0500
 categories: ["New Data"]
-background: /assets/images/bluenose_shiner_FWC.jpg
+background: /assets/images/bumblebee_wieferi9.jpg
 imageLicense: |
     Bluenose shiner - Florida Fish and Wildlife Conservation Commission photo via Flickr (CC BY-NC-ND 2.0)
 --- 
