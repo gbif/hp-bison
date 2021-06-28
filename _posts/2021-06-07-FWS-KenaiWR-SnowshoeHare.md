@@ -4,7 +4,7 @@ date: 2021-06-07 14:00:00 -0500
 categories: [“New Data”] 
 background: /assets/images/snowshoe_hare_vlmanning_via_iNaturalist.jpg
 ImageLicense: | 
-   © Vivian, some rights reserved (CC-BY-NC)
+   Vivian, some rights reserved (CC-BY-NC)
 --- 
 USGS recently published a U.S. Fish and Wildlife dataset about densities of  snowshoe hares (Lepus americanus Erxleben, 1777) based on pellet counts, which were measured over time to document cyclic changes in hare abundance within the Kenai National Wildlife Refuge. Pellet counts were conducted annually on 5 grids of 49 1 m2 permanent pellet plots. All pellets within the 1 m2 plot were counted and removed. Pellet counts were averaged annually for each grid as an index of snowshoe hare abundance. 
 
