@@ -17,7 +17,7 @@ columns:
   - name: Contact
     description: | # Can be Markdown
       
-      * bison@usgs.gov
+      * gbif-us@usgs.gov
     connectIcons: false
 
   # EXAMPLE
