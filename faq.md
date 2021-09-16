@@ -2,7 +2,7 @@
 lang-ref: faq
 title: Frequently Asked Questions
 description: This page provides answers to frequently asked questions related to GBIF-US.
-background: /assets/images/Colorado_Scenery.jpg
+background: /assets/images/bighorn_sheep_wieferi9.jpg
 imageLicense: |
   Photo by Abby Benson
 height: 70vh
