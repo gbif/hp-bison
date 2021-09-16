@@ -2,9 +2,9 @@
 lang-ref: faq
 title: Frequently Asked Questions
 description: This page provides answers to frequently asked questions related to GBIF-US.
-background: /assets/images/bighorn_sheep_wieferi9.jpg
+background: /assets/images/mountain_bluebird_wieferi9.jpg
 imageLicense: |
-  Photo by Abby Benson
+  Photo by Daniel Wieferich
 height: 70vh
 ---
 
