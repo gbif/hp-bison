@@ -10,19 +10,19 @@ height: 70vh
 
 #### What is the data standard used to share biodiversity data? 
 
-> GBIF-US focuses on [Darwin Core](https://dwc.tdwg.org/) for sharing biodiversity data. 
+> GBIF-US uses primarily [Darwin Core](https://dwc.tdwg.org/) and associated extensions for sharing biodiversity data. 
 
 #### What is "species occurrence data" and why is it important? 
 
-> Most research on biological organisms in nature involves recording or collecting evidence of an occurrence of a species by a person (or instrument) at a particular place and time. We refer to these data in general terms as 'species occurrence data'. Regardless of the initial reason why the species occurrence was recorded somewhere, the knowledge that it was actually at a specific place at a specific time is extremely useful in many areas of science and natural resource management. For example, these occurrence records are instrumental in tracking the spread of invasive species, the decline of threatened species, and the movement of ranges in response to climate change or other environmental factors. Species occurrence data are used as baseline data for modeling and analysis, in ecological research, and in the management of natural resources. Each record in a species occurrence dataset available through GBIF-US will typically consist of a scientific name (genus and specific epithet), a date, and one or more geographic references such as a state or province name, county name, and/or decimal latitude and longitude coordinates. In addition to these typical data fields, species occurrence datasets often include many other data fields that describe each species occurrence event in more detail. 
+> Most research on biological organisms in nature involves recording or collecting evidence of an occurrence of a species by a person (or instrument) at a particular place and time. We refer to these data in general terms as "species occurrence data". Regardless of the initial reason why the species occurrence was recorded somewhere, the knowledge that it was actually at a specific place at a specific time is extremely useful in many areas of science and natural resource management. For example, these occurrence records are instrumental in tracking the spread of invasive species, the decline of threatened species, and the movement of ranges in response to climate change or other environmental factors. Species occurrence data are used as baseline data for modeling and analysis, in ecological research, and in the management of natural resources. Each record in a species occurrence dataset available through GBIF-US will typically consist of a scientific name (genus and specific epithet), a date, and one or more geographic references such as a state or province name, county name, and/or decimal latitude and longitude coordinates. In addition to these typical data fields, species occurrence datasets often include many other data fields that describe each species occurrence event in more detail. 
 
 #### How can I share biodiversity data with GBIF? 
 
-> GBIF-US shares data with GBIF using the [Integrated Publishing Toolkit](https://bison.usgs.gov/ipt/) and operates the US Node to GBIF. As part of those operations USGS assists data providers with standardizing their data using Darwin Core, loading data to the GBIF-US IPT,  conducting analyses using GBIF mobilized data, and other activities to support the network of data providers in the U.S. 
+> GBIF-US shares data with GBIF using the [Integrated Publishing Toolkit (IPT)](https://bison.usgs.gov/ipt/) and operates the U.S. Node to GBIF. As part of those operations USGS assists data providers with standardizing their data using Darwin Core, loading data to the GBIF-US IPT,  conducting analyses using GBIF mobilized data, and other activities to support the network of data providers in the U.S. 
 
-#### How can I get endorsed as a publisher by GBIF-US? 
+#### How can I get endorsed as a data publisher by GBIF-US? 
 
-> Publishers that wish to be endorsed by the U.S. Node to GBIF (GBIF-US) need to meet four criteria. They need to: 1) Provide evidence of a mechanism for publishing their data, 2) Identify a specific point of contact responsible for the organization's GBIF contributions, 3) Demonstrate a commitment to respond in a timely manner to feedback, and 4) Commit to improve data quality. 
+> Publishers that wish to be endorsed by the U.S. Node to GBIF (GBIF-US) need to meet four criteria. They need to: 1) Provide evidence of a mechanism for publishing their data, 2) Identify a specific point of contact responsible for the organization's GBIF contributions, 3) Demonstrate a commitment to respond in a timely manner to feedback, and 4) Commit to ongoing improvements in data quality. 
 
 #### What are the sources of the data that are available? 
 
