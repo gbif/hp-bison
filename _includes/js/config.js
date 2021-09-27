@@ -18,5 +18,5 @@ var siteConfig = {
       }
     ]
   },
-  highlightedFilters: ['occurrenceStatus', 'taxonKey', 'year', 'gadmGid', 'occurrenceIssue']
+  highlightedFilters: ['taxonKey','occurrenceStatus', 'gadmGid', 'year', 'datasetName', 'occurrenceIssue', 'datasetKey']
 };
