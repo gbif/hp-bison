@@ -18,6 +18,6 @@ permalink: /
 klass: home
 ---
 
-The pilot implementation of a GBIF national data portal for the United States managed by the [Science Analytics and Synthesis (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Program of the U.S. Geological Survey (USGS). It serves as an access point to biological observation data for the United States and U.S. Territories.  
+The Global Biodiversity Information Facility (GBIF) national data portal for the United States is a pilot implementation managed by the [Science Analytics and Synthesis (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Program of the U.S. Geological Survey (USGS). It serves as an access point to biological observation data for the United States and U.S. Territories.  
 
 
