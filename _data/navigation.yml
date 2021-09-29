@@ -20,3 +20,8 @@
   href: /faq
 - text: News
   href: /news/
+- text: Literature
+  - text: Literature About
+  - href: /literature/about
+  - text: Literature From
+  - href: /literature/from
