@@ -21,6 +21,7 @@
 - text: News
   href: /news/
 - text: Literature
+  menu:
   - text: Literature About
   - href: /literature/about
   - text: Literature From
