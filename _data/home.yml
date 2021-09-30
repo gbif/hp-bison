@@ -52,7 +52,9 @@ specimens:
   height: 50vh
   title: Museum specimens
   description: |      # required
-    With over ahlsdkjfh alkfjdhg lskdjfhg lskjdfhg lskjdfhglsdufhg lksjdfhl kjdfhg lksjdfh glkjh. Such as this holotype of *Kyromyrma neffi* Grimaldi & Agosti, 2000
+    Lorem ipsum dolor sit amet, has ex exerci homero dissentias, ad vim vitae iudicabit definitiones. Decore dissentiunt ne eum.
+    
+    Such as this holotype of *Kyromyrma neffi* Grimaldi & Agosti, 2000
   # img required
   background: /assets/images/1213706626_amber_ant.jpg
   #overlayColor: "#000033"
@@ -63,3 +65,19 @@ specimens:
     isPrimary: true
   - text: See specimen
     href: /data?entity=1213706626
+
+fossil:
+  reverse: true
+  height: 50vh
+  title: Fossils
+  description: |
+    Lorem ipsum dolor sit amet, has ex exerci homero dissentias, ad vim vitae iudicabit definitiones. Decore dissentiunt ne eum. Usu blandit theophrastus ei, cum accumsan consetetur ex, choro ridens scripserit id mel. Tacimates accommodare vim ei, nec ne quod noster.
+  background: "{{site.data.images.Fossil.src}}"
+  imageLicense: "{{site.data.images.Fossil.caption}}"
+  href: /data?entity=2990961382&filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiRk9TU0lMX1NQRUNJTUVOIl19fQ%3D%3D&view=TABLE
+  cta:
+  - text: See all fossils
+    href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiRk9TU0lMX1NQRUNJTUVOIl19fQ%3D%3D&view=TABLE
+    isPrimary: true
+  - text: See specimen
+    href: /data?entity=2990961382
