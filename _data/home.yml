@@ -48,7 +48,7 @@ nearYou:
     isPrimary: true
 
 specimens:
-  reverse: true
+  reverse: false
   height: 50vh
   title: Museum specimens
   description: |      # required
