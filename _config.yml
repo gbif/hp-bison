@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GBIF.US # the title of your site should go here
+title: GBIF.us # the title of your site should go here
 email: gbif-us@usgs.gov
 description: >- # this means to ignore newlines (until baseurl:)
   GBIF.US is committed to mobilizing and providing access to species occurrence (presence and absence) data that adheres 
