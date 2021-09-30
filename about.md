@@ -3,7 +3,7 @@ lang-ref: about
 title: About
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/occurrence_3329398887_crop.jpg
-imageLicense: [Preserved specimen of _Crotalaria longirostrata_ Hook. & Arn.](/data?entity=3329398887) by Kaley Arboleda, University of Florida Herbarium
+imageLicense: "[Preserved specimen of _Crotalaria longirostrata_ Hook. & Arn.](/data?entity=3329398887) by Kaley Arboleda, University of Florida Herbarium"
 height: 60vh
 ---
 The [Science Analytics and Synthesis Program (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) of the U.S. Geological Survey (USGS) manages the U.S. Node to GBIF, GBIF-US, to facilitate access to species occurrence data (presence and absence), analyses and investigations of species trends, drivers of change, and potential implications of future changes in biodiversity in the United States and U.S. Territories. This pilot implementation of a Global Biodiversity Information Facility (GBIF) national data portal serves as an access point to U.S. species occurrence data contributed to GBIF. The Biodiversity Information Serving Our Nation (BISON) project provided the foundation for the current implementation of GBIF-US.  
