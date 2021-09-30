@@ -1,0 +1,12 @@
+# SOME NOTES TO MAKE THESE CONSISTENT:
+# name: use the common name - it is easier to type
+#   src: download the image in high resolution and save it locally. This is more robust
+#   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence, but kepp links to the site when possible.
+
+AmericanBison:
+  src: /assets/images/tim-peterson-jwAoPdEd7GM-unsplash.jpg
+  caption: "Photo by [Tim Peterson](https://unsplash.com/@stp_com?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+CastanetPlant:
+  src: /assets/images/occurrence_3329398887_crop.jpeg
+  caption: "[Preserved specimen of _Crotalaria longirostrata_ Hook. & Arn.](/data?entity=3329398887) by Kaley Arboleda, University of Florida Herbarium"
