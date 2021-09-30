@@ -1,0 +1,17 @@
+mepeck:
+  reverse: true
+  #preTitle: Reporte  # optional
+  title: Explore invidiaual collectors
+  description: |      # required
+      You can filter for recorder names to explore the efforts on individuals. [Morton E. Peck](https://www.wikidata.org/wiki/Q5645546) for example has recorded more than 25.000 records in Oregon.
+  # img required
+  background: https://www.oregonencyclopedia.org/media/uploads/Peck_Morton_ca._1936.jpg
+  #overlayColor: "#000033"
+  href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
+  cta:
+  - text: Records by M. E. Peck
+    href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=TABLE
+    isPrimary: true
+  - text: Images
+    href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
+    isPrimary: false
