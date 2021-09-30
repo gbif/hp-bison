@@ -5,7 +5,7 @@ description: This page provides answers to frequently asked questions related to
 background: /assets/images/mountain_bluebird_wieferi9.jpg
 imageLicense: |
   Photo by Daniel Wieferich
-height: 60vh
+height: 75vh
 ---
 
 #### What is the data standard used to share biodiversity data? 
