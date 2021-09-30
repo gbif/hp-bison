@@ -3,9 +3,8 @@ lang-ref: home
 layout: home
 title: GBIF-US
 description: Species occurrences for the United States and U.S. Territories.
-background: /assets/images/US_Biodiversity.png
-imageLicense: |
-  Photo collage by Rebecca D. Uribe & Elizabeth Martín, U.S. Geological Survey.
+background: "{{site.data.images.AmericanBison.src}}"
+imageLicense: "{{site.data.images.AmericanBison.caption}}"
 height: 70vh
 parallax: true
 cta:
