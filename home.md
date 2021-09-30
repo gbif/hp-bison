@@ -31,7 +31,7 @@ composition:
     type: split
   # - data: home.mepeck
   #   type: split
-  - data: home.specimens
+  - data: home.dataset
     type: split
   - data: home.fossil
     type: split
