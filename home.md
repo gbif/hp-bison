@@ -7,7 +7,7 @@ title: Species observations for the United States and territories
 background: /assets/images/pronghorn_inat_mmcmasters.jpg
 imageLicense: |
   Photo by mmcmasters via [inaturalist.org](https://www.inaturalist.org/observations/92171021)
-height: 100vh
+height: 85vh
 parallax: true
 cta:
   - text: Start exploring
