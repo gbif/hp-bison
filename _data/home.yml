@@ -56,7 +56,8 @@ specimens:
     
     Such as this holotype of *Kyromyrma neffi* Grimaldi & Agosti, 2000
   # img required
-  background: /assets/images/1213706626_amber_ant.jpg
+  # background: /assets/images/1213706626_amber_ant.jpg
+  background: /assets/images/dalmation_toadflax_zookanthos.jpeg
   #overlayColor: "#000033"
   href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
   cta:
