@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   GBIF.US is committed to mobilizing and providing access to species occurrence (presence and absence) data that adheres 
   to Findable, Accessible, Interoperable, Reusable (FAIR) data principles.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gbif-us-styling.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hp-bison.gbif-staging.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
