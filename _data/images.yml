@@ -10,3 +10,7 @@ AmericanBison:
 CastanetPlant:
   src: /assets/images/occurrence_3329398887_crop.jpeg
   caption: "[Preserved specimen of _Crotalaria longirostrata_ Hook. & Arn.](/data?entity=3329398887) by Kaley Arboleda, University of Florida Herbarium"
+
+SaltBush:
+  src: /assets/images/saltbush_3017941807.jpeg
+  caption: "[*Atriplex canescens* (Pursh) Nutt.](/data?entity=3017941807) observed in United States of America by rearick1124 (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))"
