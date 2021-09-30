@@ -21,7 +21,7 @@
 title: GBIF-US # the title of your site should go here
 email: gbif-us@usgs.gov
 description: >- # this means to ignore newlines (until baseurl:)
-  GBIF-US is committed to mobilizing and providing access to species occurrence (presence and absence) data that adheres 
+  GBIF-US is committed to mobilizing and providing access to species observation data that adheres 
   to Findable, Accessible, Interoperable, Reusable (FAIR) data principles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-bison.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
@@ -58,12 +58,12 @@ algae:
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#0000FF"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: "#42507c"          # Primary color of your brand. Use HEX code. Used for buttons and links
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: true   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
-    color: "#00264c"             # What color should the navbar be?
+    color: "#365596"             # What color should the navbar be?
     hasWhiteText: true          # Should the text color be white?
 
 # Exclude from processing.
