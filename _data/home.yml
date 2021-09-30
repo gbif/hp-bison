@@ -21,14 +21,14 @@ dataset:
   #preTitle: Reporte  # optional
   title: Datasets
   description: |      # required
-    Explore individual datasets. For example this costal monitoring program.
+    View images from the deep such as the ones from the NOAA Deep Sea Coral Research and Technology Program dataset.
   # img required
-  background: /assets/images/dataset.png
+  background: /assets/images/https___deepseacoraldata.noaa.gov_db-images_918242.jpg
   #overlayColor: "#000033"
-  href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
+  href: data?filter=eyJtdXN0Ijp7ImRhdGFzZXRLZXkiOlsiZGY4ZTNmYjgtM2RhNy00MTA0LWE4NjYtNzQ4ZjZkYTIwYTNjIl19fQ%3D%3D&view=GALLERY
   cta:
   - text: Explore dataset
-    href: /data?filter=eyJtdXN0Ijp7ImRhdGFzZXRLZXkiOlsiODc0ZmYyZjktZjUxNS00MzViLWFmYjEtYmMyODJlZjNmYTY3Il19fQ%3D%3D&view=MAP
+    href: /data?filter=eyJtdXN0Ijp7ImRhdGFzZXRLZXkiOlsiZGY4ZTNmYjgtM2RhNy00MTA0LWE4NjYtNzQ4ZjZkYTIwYTNjIl19fQ%3D%3D&view=GALLERY
     isPrimary: true
 
 nearYou:
