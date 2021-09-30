@@ -1,6 +1,6 @@
 ---
 title: "FWC Florida Imperiled Fish Species Investigation - 2001-2004 dataset published"
-date:   2021-04-29 14:00:00 -0500
+date: 2021-04-29 14:00:00 -0500
 categories: ["New Data"]
 background: /assets/images/bluenose_shiner_FWC.jpg
 imageLicense: |

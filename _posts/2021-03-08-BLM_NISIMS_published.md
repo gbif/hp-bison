@@ -1,5 +1,5 @@
 ---
-title:  "New BLM - National Invasive Species Information Management System - Plants dataset published"
+title: New BLM - National Invasive Species Information Management System - Plants dataset published
 date:   2021-03-09 08:00:00 -0500
 categories: ["New Data", "Invasive Species"]
 background: /assets/images/dalmation_toadflax_zookanthos.jpeg
