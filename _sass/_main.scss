@@ -3,7 +3,19 @@
 // You can add additional styling here
 
 .floatingHero.home {
-  .feature-img {
-    background-position: top;
+  .feature-title {
+    width: 800px;
+    max-width: 90%;
+    margin: auto;
   }
+}
+
+.home {
+  section.splitBanner {
+    max-width: 1124px;
+  }
+}
+
+.boxHero .feature-content {
+  border-radius: 8px 8px 0 0;
 }

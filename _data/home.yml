@@ -1,0 +1,83 @@
+mepeck:
+  reverse: false
+  #preTitle: Reporte  # optional
+  title: Collectors
+  description: |      # required
+    Explore the work of famous collectors. Did you know that [Morton E. Peck](https://www.wikidata.org/wiki/Q5645546) has recorded more than 25.000 records in Oregon.
+  # img required
+  background: https://www.oregonencyclopedia.org/media/uploads/Peck_Morton_ca._1936.jpg
+  #overlayColor: "#000033"
+  href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
+  cta:
+  - text: Records by M. E. Peck
+    href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=TABLE
+    isPrimary: true
+  - text: Images
+    href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
+    isPrimary: false
+
+dataset:
+  reverse: false
+  #preTitle: Reporte  # optional
+  title: Datasets
+  description: |      # required
+    Explore individual datasets. For example this costal monitoring program.
+  # img required
+  background: /assets/images/dataset.png
+  #overlayColor: "#000033"
+  href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
+  cta:
+  - text: Explore dataset
+    href: /data?filter=eyJtdXN0Ijp7ImRhdGFzZXRLZXkiOlsiODc0ZmYyZjktZjUxNS00MzViLWFmYjEtYmMyODJlZjNmYTY3Il19fQ%3D%3D&view=MAP
+    isPrimary: true
+
+nearYou:
+  reverse: true
+  #preTitle: Reporte  # optional
+  title: Observations near you
+  description: |      # required
+    Use the map to explore observations near you and learn more about the area you live in.
+  # img required
+  background: /assets/images/saltbush_3017941807.jpeg
+  imageLicense: "[*Atriplex canescens* (Pursh) Nutt.](/data?entity=3017941807) observed in United States of America by rearick1124 (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))"
+  #overlayColor: "#000033"
+  href: /data?view=MAP
+  cta:
+  - text: Explore map
+    href: /data?view=MAP
+    isPrimary: true
+
+specimens:
+  reverse: false
+  height: 50vh
+  title: Museum specimens
+  description: |      # required
+    Lorem ipsum dolor sit amet, has ex exerci homero dissentias, ad vim vitae iudicabit definitiones. Decore dissentiunt ne eum.
+    
+    Such as this holotype of *Kyromyrma neffi* Grimaldi & Agosti, 2000
+  # img required
+  background: /assets/images/1213706626_amber_ant.jpg
+  #overlayColor: "#000033"
+  href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
+  cta:
+  - text: Explore dataset
+    href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl19fQ%3D%3D&view=TABLE
+    isPrimary: true
+  - text: See specimen
+    href: /data?entity=1213706626
+
+fossil:
+  reverse: true
+  height: 50vh
+  title: Fossils
+  description: |
+    Lorem ipsum dolor sit amet, has ex exerci homero dissentias, ad vim vitae iudicabit definitiones. Decore dissentiunt ne eum. Usu blandit theophrastus ei, cum accumsan consetetur ex, choro ridens scripserit id mel. Tacimates accommodare vim ei, nec ne quod noster.
+  background: "{{site.data.images.Fossil.src}}"
+  imageLicense: "{{site.data.images.Fossil.caption}}"
+  href: /data?entity=2990961382&filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiRk9TU0lMX1NQRUNJTUVOIl19fQ%3D%3D&view=TABLE
+  cta:
+  - text: See all fossils
+    href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiRk9TU0lMX1NQRUNJTUVOIl19fQ%3D%3D&view=TABLE
+    isPrimary: true
+  - text: See specimen
+    href: /data?entity=2990961382

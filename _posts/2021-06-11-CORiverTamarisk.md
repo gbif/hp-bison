@@ -1,6 +1,6 @@
 ---
-title:  "Tamarisk Occurrences of the Colorado River Basin dataset published" 
-date:   2021-06-11 14:00:00 -0500 
+title: "Tamarisk Occurrences of the Colorado River Basin dataset published" 
+date: 2021-06-11 14:00:00 -0500 
 categories: ["New Data"] 
 background: /assets/images/invasivetamarisk-nasa.jpg
 imageLicense: | 

@@ -1,7 +1,7 @@
 --- 
 title: "US Fish and Wildlife Service Kenai Wildlife Refuge Snowshoe Hare dataset published"
 date: 2021-06-07 14:00:00 -0500
-categories: [“New Data”] 
+categories: ["New Data"] 
 background: /assets/images/snowshoe_hare_vlmanning_via_iNaturalist.jpg
 imageLicense: | 
    Vivian, some rights reserved (CC-BY-NC)
