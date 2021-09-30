@@ -38,8 +38,8 @@ nearYou:
   description: |      # required
     Use the map to explore observations near you and learn more about the area you live in.
   # img required
-  background: /assets/images/bumblebee_wieferi9.jpg
-  imageLicense: Photo by Daniel Wieferich
+  background: /assets/images/saltbush_3017941807.jpeg
+  imageLicense: "[*Atriplex canescens* (Pursh) Nutt.](/data?entity=3017941807) observed in United States of America by rearick1124 (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))"
   #overlayColor: "#000033"
   href: /data?view=MAP
   cta:
