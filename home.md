@@ -1,8 +1,9 @@
 ---
 lang-ref: home
 layout: home
-title: GBIF-US
-description: Species occurrences for the United States and U.S. Territories.
+# preTitle: GBIF.US
+title: Species observations for the United States and territories
+# description: Species occurrences for the United States and U.S. Territories.
 background: "{{site.data.images.AmericanBison.src}}"
 imageLicense: "{{site.data.images.AmericanBison.caption}}"
 height: 70vh
