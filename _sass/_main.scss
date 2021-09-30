@@ -1,9 +1,12 @@
 @import "theme/_main";
 
 // You can add additional styling here
-
-.floatingHero.home {
-  .feature-img {
-    background-position: top;
+.home {
+  section.splitBanner {
+    max-width: $navbar-breakpoint;
   }
+}
+
+.boxHero .feature-content {
+  border-radius: 8px 8px 0 0;
 }
