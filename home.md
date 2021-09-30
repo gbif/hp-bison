@@ -6,7 +6,7 @@ title: Species observations for the United States and territories
 # description: Species occurrences for the United States and U.S. Territories.
 background: /assets/images/pronghorn_inat_mmcmasters.jpg
 imageLicense: |
-  Photo by mmcmasters via [inaturalist.org](https://www.inaturalist.org/observations/92171021)
+  [Pronghorn](/data?entity=3344008750&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjQ0MDkwMl19fQ%3D%3D&view=TABLE) - photo by mmcmasters via [inaturalist.org](https://www.inaturalist.org/observations/92171021)
 height: 85vh
 parallax: true
 cta:
