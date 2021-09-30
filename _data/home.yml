@@ -41,10 +41,10 @@ nearYou:
   background: /assets/images/saltbush_3017941807.jpeg
   imageLicense: "[*Atriplex canescens* (Pursh) Nutt.](/data?entity=3017941807) observed in United States of America by rearick1124 (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))"
   #overlayColor: "#000033"
-  href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiSFVNQU5fT0JTRVJWQVRJT04iXSwieWVhciI6W3sidHlwZSI6InJhbmdlIiwidmFsdWUiOnsiZ3RlIjoiMjAxOSJ9fV19fQ%3D%3D&view=MAP
+  href: /data?view=MAP
   cta:
   - text: Explore map
-    href: /data?filter=eyJtdXN0Ijp7ImRhdGFzZXRLZXkiOlsiODc0ZmYyZjktZjUxNS00MzViLWFmYjEtYmMyODJlZjNmYTY3Il19fQ%3D%3D&view=MAP
+    href: /data?view=MAP
     isPrimary: true
 
 specimens:
