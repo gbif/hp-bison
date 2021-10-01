@@ -21,7 +21,7 @@ dataset:
   #preTitle: Reporte  # optional
   title: Datasets
   description: |      # required
-    View images from the deep such as the ones from the NOAA Deep Sea Coral Research and Technology Program dataset.
+    View images from the deep such as the ones from the NOAA Deep Sea Corals Research and Technology Program dataset.
   # img required
   background: /assets/images/https___deepseacoraldata.noaa.gov_db-images_918242.jpg
   #overlayColor: "#000033"
@@ -71,10 +71,10 @@ fossil:
   reverse: true
   height: 50vh
   title: Fossils
-  description: |
-    Lorem ipsum dolor sit amet, has ex exerci homero dissentias, ad vim vitae iudicabit definitiones. Decore dissentiunt ne eum. Usu blandit theophrastus ei, cum accumsan consetetur ex, choro ridens scripserit id mel. Tacimates accommodare vim ei, nec ne quod noster.
-  background: "{{site.data.images.Fossil.src}}"
-  imageLicense: "{{site.data.images.Fossil.caption}}"
+  description: |  # required
+     Explore the biology of the past through the wonders of fossil specimens.
+  background: /assets/images/2990961382_fossil.jpg
+  imageLicense: "[*Bistahieversor sealeyi* Carr & Williamson, 2010](/data?entity=2990961382) collected in United States of America."
   href: /data?entity=2990961382&filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiRk9TU0lMX1NQRUNJTUVOIl19fQ%3D%3D&view=TABLE
   cta:
   - text: See all fossils
