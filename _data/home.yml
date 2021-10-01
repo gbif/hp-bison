@@ -23,7 +23,7 @@ dataset:
   description: |      # required
     View images from the deep such as the ones from the NOAA Deep Sea Corals Research and Technology Program dataset.
   # img required
-  background: /assets/images/https___deepseacoraldata.noaa.gov_db-images_918242.jpg
+  background: /assets/images/https_deepseacoraldata.noaa.gov_db-images_918242.jpg
   #overlayColor: "#000033"
   href: data?filter=eyJtdXN0Ijp7ImRhdGFzZXRLZXkiOlsiZGY4ZTNmYjgtM2RhNy00MTA0LWE4NjYtNzQ4ZjZkYTIwYTNjIl19fQ%3D%3D&view=GALLERY
   cta:
