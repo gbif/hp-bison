@@ -1,20 +1,65 @@
 # SOME NOTES TO MAKE THESE CONSISTENT:
 # name: use the common name - it is easier to type
 #   src: download the image in high resolution and save it locally. This is more robust
-#   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence, but kepp links to the site when possible.
+#   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence, but keep links to the site when possible.
 
-AmericanBison:
+AmericanBison1:
+  src: /assets/images/bison_inat_tuoichen.jpg
+  caption: "photo by tuoichen via [inaturalist.org](https://www.inaturalist.org/observations/43215178)"
+
+AmericanBison2:
   # src: /assets/images/tim-peterson-jwAoPdEd7GM-unsplash.jpg
   src: /assets/images/bison-bison-unsplash.jpg
   caption: "Photo by [Tim Peterson](https://unsplash.com/@stp_com?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+BalkanToadflax:
+  src: /assets/images/dalmation_toadflax_zookanthos.jpeg
+  caption: "Photo by zookanthos via [gbif.org](https://www.gbif.org/occurrence/2610938963)"
+
+BandedBird:
+  #from https://www.usgs.gov/media/images/female-southwestern-willow-flycatcher-colorful-bands
+  src: /assets/images/20190625_071523_SWWFinSanDiego_Howell_resize2.jpg
+  caption: "Public domain photo by Scarlett Howell"
+
+BirdFlock:
+  src: /assets/images/BarthBailey_UnSplash_birds.jfif
+  caption: "Photo by Barth Bailey[https://unsplash.com/@7bbbailey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText] via [Unsplash.com](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+BluenoseShiner:
+  src: /assets/images/bluenose_shiner_FWC.jpg
+  caption: "Bluenose shiner - Florida Fish and Wildlife Conservation Commission photo via Flickr (CC BY-NC-ND 2.0)"
 
 CastanetPlant:
   src: /assets/images/occurrence_3329398887_crop.jpg
   caption: "[Preserved specimen of _Crotalaria longirostrata_ Hook. & Arn.](/data?entity=3329398887) by Kaley Arboleda, University of Florida Herbarium"
 
+MountainBluebird:
+  src: /assets/images/mountain_bluebird_wieferi9.jpg
+  caption: "Photo by Daniel Wieferich"
+
+NYCityTrees1:
+  src: /assets/images/danny-best-k97GB_NFqYo-unsplash.jpg
+  caption: "Photo by [Danny Best](https://unsplash.com/@dannybest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/urban-tree-new-york?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+NYCityTrees2:
+  src: /assets/images/robert-bye-NYTrees.jpeg
+  caption: "Photo by [Robert Bye](https://unsplash.com/@robertbye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@robertbye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+Pronghorn:
+  src: /assets/images/pronghorn_inat_mmcmasters.jpg
+  caption: "[Pronghorn](/data?entity=3344008750&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjQ0MDkwMl19fQ%3D%3D&view=TABLE) - photo by mmcmasters via [inaturalist.org](https://www.inaturalist.org/observations/92171021)"
+
 SaltBush:
   src: /assets/images/saltbush_3017941807.jpeg
   caption: "[*Atriplex canescens* (Pursh) Nutt.](/data?entity=3017941807) observed in United States of America by rearick1124 (licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/))"
+
+SnowshoeHare:
+  src: /assets/images/snowshoe_hare_vlmanning_via_iNaturalist.jpg
+  caption: "Vivian, some rights reserved (CC-BY-NC)"
+
+Tamarisk:
+  src: /assets/images/invasivetamarisk-nasa.jpg
+  caption: "Photo by NASA, CC0"
 
 Fossil:
   src: /assets/images/2990961382_fossil.jpg
