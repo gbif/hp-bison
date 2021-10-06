@@ -3,6 +3,10 @@
 #   src: download the image in high resolution and save it locally. This is more robust
 #   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence, but keep links to the site when possible.
 
+Acanthogorgia:
+  src: /assets/images/https___deepseacoraldata.noaa.gov_db-images_918242.jpg
+  caption: "[Acanthogorgia Gray, 1857](https://www.gbif.us/data?entity=2557396581) from NOAA, Deep Sea Coral Research & Technology Program (2017) Deep-sea coral and sponge records from the CAPSTONE:   Exploring Remote Pacific Marine Protected Areas (EX-17-03). (www.deepseacoraldata.noaa.gov)"
+
 AmericanBison1:
   src: /assets/images/bison_inat_tuoichen.jpg
   caption: "photo by tuoichen via [inaturalist.org](https://www.inaturalist.org/observations/43215178)"
@@ -28,6 +32,10 @@ BirdFlock:
 BluenoseShiner:
   src: /assets/images/bluenose_shiner_FWC.jpg
   caption: "Bluenose shiner - Florida Fish and Wildlife Conservation Commission photo via Flickr (CC BY-NC-ND 2.0)"
+
+Bumblebee1:
+  src: /assets/images/bumblebee_wieferi9.jpg
+  caption: "Photo by Daniel Wieferich"
 
 CastanetPlant:
   src: /assets/images/occurrence_3329398887_crop.jpg
