@@ -9,3 +9,6 @@ imageLicense: |
 --- 
 
 NEON in partnership with USGS has published the [NEON Breeding Landbird Point Counts dataset](https://www.gbif.org/dataset/516eb7c0-3586-4dfc-bc18-c1fc1e765b7f) to GBIF. The breeding landbird point counts product provides records of species identification of all individuals observed during the 6-minute count period, as well as metadata which can be used to model detectability, e.g., weather, distances from observers to birds, and detection methods. These details and others are captured using Darwin Core Event Core with the Extended Measurement or Fact extension. To access the full Darwin Core Archive with all the data in the extension, please go [here](https://bison.usgs.gov/ipt/resource?r=neon-breeding-landbird-abundance-and-diversity). For additional details about the NEON product, [https://data.neonscience.org/data-products/DP1.10003.001/RELEASE-2021](https://data.neonscience.org/data-products/DP1.10003.001/RELEASE-2021). 
+
+{: .button .is-primary }
+[Darwin Core Archive](https://bison.usgs.gov/ipt/resource?r=neon-breeding-landbird-abundance-and-diversity)
