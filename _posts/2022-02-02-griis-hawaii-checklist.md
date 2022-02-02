@@ -2,7 +2,7 @@
 title: "Global Register of Introduced and Invasive Species – Hawaii, Unites States, checklist dataset published" 
 date: 2022-02-02 08:00:00 -0500 
 categories: ["New Data"] 
-background: /assets/images/Culex-quinquefasciatus-adult-blue-large-cdc.jpeg
+background: /assets/images/Culex-quinquefasciatus-adult-blue-large-cdc.jpg
 imageLicense: | 
    Public Domain, CDC photo
 
