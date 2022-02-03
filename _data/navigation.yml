@@ -21,10 +21,5 @@
 - text: News
   href: /news/
 - text: Literature
-  menu:
-  - text: Publications About U.S
-    # href: /literature/about
-    href: /literature/?countriesOfCoverage=US&countriesOfCoverage=UM&countriesOfCoverage=AS&countriesOfCoverage=FM&countriesOfCoverage=GU&countriesOfCoverage=MH&countriesOfCoverage=MP&countriesOfCoverage=PR&countriesOfCoverage=PW&countriesOfCoverage=VI
-  - text: Publications From U.S.
-    # href: /literature/from
-    href: /literature/?countriesOfResearcher=US&countriesOfResearcher=UM&countriesOfResearcher=AS&countriesOfResearcher=FM&countriesOfResearcher=GU&countriesOfResearcher=MH&countriesOfResearcher=MP&countriesOfResearcher=PR&countriesOfResearcher=PW&countriesOfResearcher=VI
+  href: /literature
+    
