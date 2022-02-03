@@ -2,7 +2,7 @@
 title: "USGS' Bird Banding Lab - US State Centroid - 1960-2010 dataset published" 
 date: 2021-10-05 14:00:00 -0500 
 categories: ["New Data"] 
-background: /assets/images/20190625_071523_SWWFinSanDiego_Howell_resize2.jpg
+background: /assets/images/birdbanding_rotated.jpg
 imageLicense: | 
    Public domain photo by Scarlett Howell
 
