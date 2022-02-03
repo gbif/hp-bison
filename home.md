@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 # preTitle: GBIF.US
-title: Species observations for the United States and territories
+title: Species observations for the United States and Territories
 # description: Species occurrences for the United States and U.S. Territories.
 background: /assets/images/pronghorn_inat_mmcmasters.jpg
 imageLicense: |
