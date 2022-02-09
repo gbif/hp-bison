@@ -2,9 +2,9 @@
 title: "Global Register of Introduced and Invasive Species – Unites States (Contiguous) V2.0, checklist dataset published" 
 date: 2022-02-09 08:00:00 -0500 
 categories: ["New Data"] 
-background: /assets/images/
+background: /assets/images/purple_loosestrife_DuncanHarris_ccby3.jpg
 imageLicense: | 
-    
+    CC-By-3.0 Duncan Harris, Wikimedia Commons
 
 --- 
 
