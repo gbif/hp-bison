@@ -10,7 +10,7 @@ imageLicense: |
 
 The [U.S. Geological Survey](https://www.usgs.gov/programs/science-analytics-and-synthesis-sas) recently published version 2.0 of the Global Register of Introduced and Invasive Species – United States (Contiguous) checklist dataset (GRIIS-L48), which is part of the [United States Register of Introduced and Invasive Species](https://doi.org/10.5066/P95XL09Q). The GRIIS-L48 includes 8,657 names, of which 46% are dicotyledonous plants (Class Magnoliopsida) and 42% are insects (Class Insecta).  
 
-Invasive Purple loosestrife (Lythrum salicaria), pictured above, is visually attractive but can quickly form dense stands that completely dominate the invaded area, excluding native vegetation. 
+Invasive Purple loosestrife (*Lythrum salicaria*), pictured above, is visually attractive but can quickly form dense stands that completely dominate the invaded area, excluding native vegetation. 
 
 Two more checklists that are included in the United States Register of Introduced and Invasive Species and have recently been published are: the Global Register of Introduced and Invasive Species - Alaska, United States, and the Global Register of Introduced and Invasive Species – Hawaii, United States.  
 
