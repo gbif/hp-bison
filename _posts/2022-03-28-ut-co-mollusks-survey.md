@@ -2,9 +2,10 @@
 title: "Utah-Colorado Freshwater Mollusks Survey is Now Published by USGS" 
 date: 2022-03-28 08:00:00 -0500 
 categories: ["New Data"] 
-background: /assets/images/Mussel-AndrewPetersUSFWS.png
+background: /assets/images/Fluminicola_fuscus_NMNH.png
 imageLicense: | 
-    Public Domain, Photo by Andrew Peters, USFWS
+    IZ MOL 47875 Ventral Shell Image" - Fluminicola fuscus (Haldeman, 1847) 
+    collected in United States of America (licensed under http://creativecommons.org/publicdomain/zero/1.0/)
 
 --- 
 
