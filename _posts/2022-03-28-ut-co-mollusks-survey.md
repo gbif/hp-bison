@@ -2,7 +2,7 @@
 title: "Utah-Colorado Freshwater Mollusks Survey is Now Published by USGS" 
 date: 2022-03-28 08:00:00 -0500 
 categories: ["New Data"] 
-background: /assets/images/mollusk_PetersAndrew_USFWS.jpg
+background: /assets/images/Mussel-AndrewPetersUSFWS.png
 imageLicense: | 
     Public Domain, Photo by Andrew Peters, USFWS
 
