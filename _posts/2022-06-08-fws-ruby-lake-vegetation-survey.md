@@ -1,5 +1,5 @@
 ---
-title: "FWS’ Ruby Lake National Wildlife Refuge Vegetation Mapping Survey Dataset is Now Published by USGS" 
+title: "FWS’ Ruby Lake National Wildlife Refuge Vegetation Mapping Survey Dataset is Now Hosted by USGS" 
 date: 2022-06-08 08:00:00 -0500 
 categories: ["New Data"] 
 background: /assets/images/RubyLakeNWR_MurrayFoubister.jpg
