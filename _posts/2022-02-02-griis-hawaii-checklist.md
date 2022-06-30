@@ -5,7 +5,7 @@ categories: ["New Data"]
 background: /assets/images/Culex-quinquefasciatus-adult-blue-large-cdc.jpg
 imageLicense: | 
    Public Domain, CDC photo
-
+preTitle: February 2, 2022
 --- 
 
 The U.S. Geological Survey recently published the Hawaii portion of the checklist dataset, the United States Register of Introduced and Invasive Species (US-RIIS). The Global Register of Introduced and Invasive Species – Hawaii, United States, includes 6,069 names, of which 51% are insects (Class Insecta) and 29% are dicotyledonous plants (Class Magnoliopsida). The image above, of the invasive Southern house mosquito, *Culex quinquefasciatus*, has widely transmitted avipox virus in Hawaii, endangering native bird species.

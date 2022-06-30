@@ -5,7 +5,7 @@ categories: ["New Data"]
 background: /assets/images/ketchikancrab_lindamccann.jpg
 imageLicense: | 
    Linda McCann/SERC A crab on a Ketchikan, Alaska, dock, covered with the invasive tunicate Botrylloides violaceous. 
-
+preTitle: February 1, 2022
 --- 
 
 The U.S. Geological Survey recently published the Alaska portion of the checklist dataset, the United States Register of Introduced and Invasive Species (US-RIIS), called the Global Register of Introduced and Invasive Species – Alaska, United States. This Alaska checklist includes 532 introduced and invasive species names, of which 71% are dicotyledenous plants (Class Magnoliopsida), and 13% insects (Class Insecta). Also, 68% of the names on this checklist are invasive species, defined as non-native species that cause, or are likely to cause, harm. 

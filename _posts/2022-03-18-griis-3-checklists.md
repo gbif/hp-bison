@@ -5,7 +5,7 @@ categories: ["Invasive Species"]
 background: /assets/images/BIML_Hypericum_punctatum_2017-08-24-11.jpg
 imageLicense: | 
     Public Domain, Photo by [USGS Bee Inventory and Monitoring Lab](https://www.flickr.com/people/54563451@N08)
-
+preTitle: March 7, 2022
 --- 
 
 The [U.S. Geological Survey](https://www.usgs.gov/programs/science-analytics-and-synthesis-sas) has pulled back the three checklist datasets of introduced and invasive species that were previously published to GBIF, and has replaced them with three improved versions of the datasets that are published by the [Invasive Species Specialists Group](https://www.gbif.org/publisher/cdef28b1-db4e-4c58-aa71-3c5238c2d0b5) and are [hosted by USGS](https://bison.usgs.gov/ipt). The three checklists still consist of a Taxon Core and an Occurrence Extension, plus Extensions for Species Distribution, Vernacular Names, Literature References, and (newly added) Species Profile. The new links to each checklist dataset in GBIF are below. 

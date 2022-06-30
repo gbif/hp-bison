@@ -5,7 +5,7 @@ categories: ["New Data"]
 background: /assets/images/purple_loosestrife_DuncanHarris_ccby3.jpg
 imageLicense: | 
     CC-By-3.0 Duncan Harris, Wikimedia Commons
-
+preTitle: February 9, 2022
 --- 
 
 The [U.S. Geological Survey](https://www.usgs.gov/programs/science-analytics-and-synthesis-sas) recently published version 2.0 of the Global Register of Introduced and Invasive Species – United States (Contiguous) checklist dataset (GRIIS-L48), which is part of the [United States Register of Introduced and Invasive Species](https://doi.org/10.5066/P95XL09Q). The GRIIS-L48 includes 8,657 names, of which 46% are dicotyledonous plants (Class Magnoliopsida) and 42% are insects (Class Insecta).  
