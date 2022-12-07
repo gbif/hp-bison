@@ -2,9 +2,6 @@
 title: "New Head of the Delegation for the United States" 
 date: 2022-12-01 08:00:00 -0500 
 categories: ["Announcement"] 
-background: /assets/images/
-imageLicense: | 
-    Photo by 
 preTitle: December 01, 2022
 --- 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
