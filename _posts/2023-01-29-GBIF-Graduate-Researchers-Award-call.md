@@ -2,7 +2,7 @@
 title: "GBIF Graduate Researchers Award Call" 
 date: 2023-01-30 12:00:00 -0500 
 categories: ["Announcement"] 
-background: /assets/images/GRA_GBIF.png{:height="100%"}
+background: /assets/images/GRA_GBIF.png
 preTitle: February 01, 2023
 ---
 
