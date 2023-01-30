@@ -6,7 +6,8 @@ background: /assets/images/GRA_GBIF.png
 preTitle: February 01, 2023
 ---
 
-GBIF announced its call for nominations for the 2023 GBIF Graduate Researchers Award. The deadline for US applications is May 19, 2023. This award is aimed at graduate students whose master’s and doctoral studies rely on GBIF-mediated data. 
+GBIF has announced its call for nominations for the 2023 GBIF Graduate Researchers Award. Share how you're using open biodiversity data from the GBIF network in your graduate research—you could earn global recognition and €5,000!
+The deadline for US applications is **May 19, 2023**. This award is aimed at graduate students whose master’s and doctoral studies rely on GBIF-mediated data. 
 
 ##### The criteria for the awards include:
 
