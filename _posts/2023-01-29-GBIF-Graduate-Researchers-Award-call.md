@@ -1,6 +1,6 @@
 ---
 title: "GBIF Graduate Researchers Award Call" 
-date: 2023-01-30 17:00:00 -0500 
+date: 2023-01-30 12:00:00 -0500 
 categories: ["Announcement"] 
 background: /assets/images/pn-green-logo.jpg
 preTitle: February 01, 2023
