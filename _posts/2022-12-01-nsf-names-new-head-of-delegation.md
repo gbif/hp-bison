@@ -2,7 +2,7 @@
 title: "NSF Names New Head of the Delegation for the United States" 
 date: 2022-12-01 08:00:00 -0500 
 categories: ["Announcement"] 
-background: /assets/images/pn-green-logo.jpg {:style="float: right;margin-right: 7px;margin-top: 7px;width: 200px;height: 250px"}
+background: /assets/images/pn-green-logo.jpg{:height="100%"}
 preTitle: December 01, 2022
 --- 
 ![Dr. Katharina Dittmar](/assets/images/HoD_KDittmar.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;width: 200px;height: 250px"}
