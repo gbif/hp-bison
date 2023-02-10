@@ -11,6 +11,7 @@ height: 50vh
 ---
 
 ## Glossary
+[**Delegation**](#delegation): The team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation.
 [**Participant Node**](#nodes): a team designated by a [Participant](https://www.gbif.org/the-gbif-network#:~:text=The%20Participant%20network,open%20access%20to%20biodiversity%20data) to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
 
 [**Publisher**](#publishers): organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher).   
@@ -25,13 +26,16 @@ height: 50vh
 > Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
 
 
-# GBIF North America Community Participants 
+# GBIF US Community Participants 
 ------------------------------
+<a name="delegation"></a>
 
 ## US Delegation Representatives
 
 - [Name 1](https://www.gbif.org/contact-us/directory?personId=2808), Position 1, Institution 1
 - [Name 2](https://www.gbif.org/contact-us/directory?personId=3917), Position 2, Institution 2
+
+https://assets.ctfassets.net/uo17ejk9rkwj/2pJQET4RuEwwgkIg2e4aAy/dc598efa5d750d334541b7098877e4a2/Approved_Rules_of_Procedure_2019.pdf
 
 (Sections below are listed alphabetically)
 
