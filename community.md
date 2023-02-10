@@ -11,7 +11,7 @@ height: 50vh
 ---
 
 ## Glossary
-[**Delegation**](#delegation): The team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation. Defined in the [Rules of Procedure for the Governing Board of the Global Biodiversity Information Facility](https://assets.ctfassets.net/uo17ejk9rkwj/2pJQET4RuEwwgkIg2e4aAy/dc598efa5d750d334541b7098877e4a2/Approved_Rules_of_Procedure_2019.pdf)
+[**Delegation**](#delegation): The team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation. Defined in the [Rules of Procedure for the Governing Board of the Global Biodiversity Information Facility](https://www.gbif.org/document/80667/rules-of-procedure-of-the-gbif-governing-board)
 
 [**Participant Node**](#nodes): a team designated by a [Participant](https://www.gbif.org/the-gbif-network#:~:text=The%20Participant%20network,open%20access%20to%20biodiversity%20data) to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
 
@@ -24,14 +24,14 @@ height: 50vh
 [**Collections Management System (CMS)**](#cms): is software that provides for the documentation of a collection. They provide access to information about an institution's collections and objects to academic researchers, institutional volunteers, and the public, increasingly through online methods. A CMS may also provide the ability to publish data.
 
 
-> Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-north-america/issues/new) for us so we can update the page.
+> Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-bison/issues) for us so we can update the page.
 
 
 # GBIF US Community Participants 
 ------------------------------
 <a name="delegation"></a>
 
-## US Delegation Representatives
+## US Delegation
 
 - [Katharina Dittmar](https://www.gbif.org/contact-us/directory?personId=4369), Head of delegation, National Science Foundation
 - [Abby Benson](https://www.gbif.org/contact-us/directory?personId=4029), Delegate, Node manager, U.S. Geological Survey
@@ -93,7 +93,7 @@ For more information contact these installations directly
 - Canadian Node of the Ocean Biodiversity Information System (OBIS Canada)
 - Cincinnati Museum Center
 - Department of Environmental Conservation, University of Massachusetts - Amherst
-- *Field Museum of Natural History* Fix this on the NA site
+- Field Museum of Natural History
 - Florida Museum of Natural History
 - Harvard University Herbaria
 - iDigBio
