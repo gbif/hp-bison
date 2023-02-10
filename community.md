@@ -11,7 +11,8 @@ height: 50vh
 ---
 
 ## Glossary
-[**Delegation**](#delegation): The team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation.
+[**Delegation**](#delegation): The team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation. Defined in the [Rules of Procedure for the Governing Board of the Global Biodiversity Information Facility](https://assets.ctfassets.net/uo17ejk9rkwj/2pJQET4RuEwwgkIg2e4aAy/dc598efa5d750d334541b7098877e4a2/Approved_Rules_of_Procedure_2019.pdf)
+
 [**Participant Node**](#nodes): a team designated by a [Participant](https://www.gbif.org/the-gbif-network#:~:text=The%20Participant%20network,open%20access%20to%20biodiversity%20data) to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information. They are supported by organizational arrangements and informatics solutions, working to improve the availability and usefulness of biodiversity data for research, policy and decision-making.   
 
 [**Publisher**](#publishers): organizations that provide biodiversity data organized into formats and standards recognized by GBIF’s data harvesting facilities, and made available via a stable web-based platform. Become a [publisher](https://www.gbif.org/become-a-publisher).   
@@ -32,12 +33,14 @@ height: 50vh
 
 ## US Delegation Representatives
 
-- [Name 1](https://www.gbif.org/contact-us/directory?personId=2808), Position 1, Institution 1
-- [Name 2](https://www.gbif.org/contact-us/directory?personId=3917), Position 2, Institution 2
-
-https://assets.ctfassets.net/uo17ejk9rkwj/2pJQET4RuEwwgkIg2e4aAy/dc598efa5d750d334541b7098877e4a2/Approved_Rules_of_Procedure_2019.pdf
-
-(Sections below are listed alphabetically)
+- [Katharina Dittmar](https://www.gbif.org/contact-us/directory?personId=4369), Head of delegation, National Science Foundation
+- [Abby Benson](https://www.gbif.org/contact-us/directory?personId=4029), Delegate, Node manager, U.S. Geological Survey
+- [Thomas Orrell](https://www.gbif.org/contact-us/directory?personId=138), Delegate, Smithsonian Institution
+- [Martin Kalfatovic](https://www.gbif.org/contact-us/directory?personId=3706), Delegate, Smithsonian Institution Libraries and Archives
+- [Sharon Grant](https://www.gbif.org/contact-us/directory?personId=4318), Delegate, Field Museum of Natural History
+- [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Node Staff, U.S. Geological Survey
+- [Mike Frame](https://www.gbif.org/contact-us/directory?personId=78), Delegate, U.S. Geological Survey
+- [Leonard Krishtalka](https://www.gbif.org/contact-us/directory?personId=880), Delegate, niversity of Kansas
 
 <a name="nodes"></a>Participant Nodes
 ------------
@@ -46,7 +49,6 @@ https://assets.ctfassets.net/uo17ejk9rkwj/2pJQET4RuEwwgkIg2e4aAy/dc598efa5d750d3
 
 ### Associate Nodes
 - [Biodiversity Heritage Library](https://www.gbif.org/participant/366)
-- [Canadensys](https://www.gbif.org/participant/365)
 - [Discover Life](https://www.gbif.org/participant/289)
 - [Encyclopedia of Life](https://www.gbif.org/participant/291)
 - [iDigBio](https://www.gbif.org/participant/375)
@@ -65,7 +67,6 @@ The North America community has over 330 publishers from the [United States](htt
 <a name="networks"></a>Networks
 ------------
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)
-- [CONABIO](https://www.gbif.org/publisher/ff90b050-c256-11db-b71b-b8a03c50a862)
 - [iDigBio](https://www.idigbio.org/)
 - [OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)
 - [VertNet](http://www.vertnet.org/)
@@ -91,7 +92,6 @@ For more information contact these installations directly
 - Canadian Museum of Nature
 - Canadian Node of the Ocean Biodiversity Information System (OBIS Canada)
 - Cincinnati Museum Center
-- Comisión nacional para el conocimiento y uso de la biodiversidad (CONABIO)
 - Department of Environmental Conservation, University of Massachusetts - Amherst
 - *Field Museum of Natural History* Fix this on the NA site
 - Florida Museum of Natural History
@@ -105,17 +105,14 @@ For more information contact these installations directly
 - NatureServe
 - Ocean Tracking Network
 - Oregon State University
-- Royal Ontario Museum
 - Sam Noble Oklahoma Museum of Natural History
 - Scripps Institution of Oceanography
 - Species File Group
 - The Genomic Observatories Metadatabase (GeOMe)
 - The New York Botanical Garden
 - United States Geological Survey
-- University of Alberta Museums
 - University of Colorado Museum of Natural History
 - University of Connecticut
-- University of Guelph
 - University of Kansas Biodiversity Institute
 - University of Michigan College of Literature, Science & Arts
 - University of Rhode Island - Biological Sciences
