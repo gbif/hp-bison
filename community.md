@@ -53,11 +53,9 @@ height: 50vh
 - [Encyclopedia of Life](https://www.gbif.org/participant/291)
 - [iDigBio](https://www.gbif.org/participant/375)
 - [Integrated Taxonomic Information System](https://www.gbif.org/participant/295)
-- [International Barcode of Life](https://www.gbif.org/participant/353)
 - [Natural Science Collections Alliance](https://www.gbif.org/participant/301)
 - [NatureServe](https://www.gbif.org/participant/302)
 - [Symbiota Support Hub](https://www.gbif.org/participant/429)
-- [Taxonomic Databases Working Group](https://www.gbif.org/participant/309)
 - [VertNet](https://www.gbif.org/participant/361)
 
 <a name="publishers"></a>Publishers
@@ -89,8 +87,6 @@ For more information contact these installations directly
 - American Museum of Natural History
 - Berkeley Natural History Museums
 - California Academy of Sciences
-- Canadian Museum of Nature
-- Canadian Node of the Ocean Biodiversity Information System (OBIS Canada)
 - Cincinnati Museum Center
 - Department of Environmental Conservation, University of Massachusetts - Amherst
 - Field Museum of Natural History
@@ -103,7 +99,6 @@ For more information contact these installations directly
 - Museum of Natural and Cultural History - University of Oregon
 - National Museum of Natural History, Smithsonian Institution
 - NatureServe
-- Ocean Tracking Network
 - Oregon State University
 - Sam Noble Oklahoma Museum of Natural History
 - Scripps Institution of Oceanography
