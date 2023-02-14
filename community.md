@@ -60,7 +60,8 @@ height: 50vh
 
 <a name="publishers"></a>Publishers
 ------------
-The North America community has over 330 publishers from the [United States](https://www.gbif.org/publisher/search?country=US).
+The [United States](https://www.gbif.org/publisher/search?country=US) has over 330 publishers 
+from across many sectors.
 
 <a name="networks"></a>Networks
 ------------
