@@ -18,6 +18,7 @@ gem "jekyll-remote-theme"
 group :jekyll_plugins do
   gem "jekyll-liquify"
   gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor"
+  gem "jekyll-leaflet"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

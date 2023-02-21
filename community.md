@@ -64,6 +64,10 @@ height: 50vh
 ------------
 The North America community has over 330 publishers from the [United States](https://www.gbif.org/publisher/search?country=US).
 
+Test Map of US Publishers (last updated Feb 21, 2023)
+
+![Map of US Publishers (last updated Feb 21, 2023)](/assets/images/test_GBIF_US_publisher_map.png)
+
 <a name="networks"></a>Networks
 ------------
 - [Arctos](https://www.gbif.org/network/1f2c0cbe-40df-43f6-ba07-e76133e78c31)

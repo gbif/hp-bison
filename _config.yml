@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-leaflet
 
 remote_theme: gbif/jekyll-hp-base-theme
 
