@@ -25,7 +25,7 @@ Test Map of US Publishers
 ### Reference GeoJSON file
 
 {% leaflet_map %}
-    {% leaflet_geojson "/assets/GBIF_US_publishers_2023-02-21.geojson" %}
+    {% leaflet_geojson "/assets/GBIF_US_publishers_2023-03-01.geojson" %}
 
 {% endleaflet_map %}
 
