@@ -5,7 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "<a href="https://www.gbif.org/publisher/ae447c50-b8a8-11d8-92a4-b8a03c50a862">Florida Gulf Coast University</a><br/>Ft Myers<br/>Florida<br/>US<br/>33965"
+        "popupContent": "<a href='https://www.gbif.org/publisher/ae447c50-b8a8-11d8-92a4-b8a03c50a862'>Florida Gulf Coast University</a><br/>Ft Myers<br/>Florida<br/>US<br/>33965"
         },
       "geometry": {
         "type": "Point",
