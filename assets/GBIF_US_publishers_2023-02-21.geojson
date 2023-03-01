@@ -1,8 +1,44 @@
 {
-"type": "FeatureCollection",
-"name": "GBIF_US_publishers_2023-02-21",
-"features": [
-{ "type": "Feature", "properties": { "popupContent": {"title": "Florida Gulf Coast University", "city": "Ft Myers", "province": "Florida", "country": "US", "postalCode": "33965" }}, "geometry": { "type": "Point", "coordinates": [ -81.7734, 26.46364 ] } },
-{ "type": "Feature", "properties": { "popupContent": {"name": "Reptiles and Amphibians", "city": "Lawrence", "province": "Kansas", "country": "US", "postalCode": "66045" }}, "geometry": { "type": "Point", "coordinates": [ -95.24355, 38.95945 ] } },
-]
+  "type": "FeatureCollection",
+  "name": "GBIF_US_publishers_2023-02-21",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": {
+          "title": "Florida Gulf Coast University",
+          "city": "Ft Myers",
+          "province": "Florida",
+          "country": "US",
+          "postalCode": "33965"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7734,
+          26.46364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": {
+          "name": "Reptiles and Amphibians",
+          "city": "Lawrence",
+          "province": "Kansas",
+          "country": "US",
+          "postalCode": "66045"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.24355,
+          38.95945
+        ]
+      }
+    }
+  ]
 }
