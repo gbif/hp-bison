@@ -5,11 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Florida Gulf Coast University",
-		"Ft Myers",
-        "Florida",
-        "US",
-        "33965"
+        "popupContent": "Florida Gulf Coast University"<br/>"Ft Myers"<br/>"Florida"<br/>"US"<br/>"33965"
         },
       "geometry": {
         "type": "Point",
