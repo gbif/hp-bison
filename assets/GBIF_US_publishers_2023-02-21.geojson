@@ -6,10 +6,10 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Florida Gulf Coast University",
-          "city": "Ft Myers",
-          "province": "Florida",
-          "country": "US",
-          "postalCode": "33965"
+		"Ft Myers",
+        "Florida",
+        "US",
+        "33965"
         },
       "geometry": {
         "type": "Point",
