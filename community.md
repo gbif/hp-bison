@@ -5,7 +5,7 @@ title: Community
 description: The US community is comprised of the US Delegation, nodes, publishers, installations, and networks working together to manage and use biodiversity data. It represents a subset of the GBIF North America community and focuses on matters that are specific to the United States.
 
 background: /assets/images/hiroko-yoshii-9y7y26C-l4Y-unsplash.jpg
-#imageLicense: Photo by <a href="https://unsplash.com/@hiro0718?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hiroko Yoshii</a> on <a href="https://unsplash.com/photos/9y7y26C-l4Y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+imageLicense: Photo by <a href="https://unsplash.com/@hiro0718?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hiroko Yoshii</a> on <a href="https://unsplash.com/photos/9y7y26C-l4Y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 layout: heroImage
 height: 50vh
