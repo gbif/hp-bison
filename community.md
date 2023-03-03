@@ -39,7 +39,7 @@ height: 50vh
 - [Thomas Orrell](https://www.gbif.org/contact-us/directory?personId=138), Delegate, Smithsonian Institution
 - [Martin Kalfatovic](https://www.gbif.org/contact-us/directory?personId=3706), Delegate, Smithsonian Institution Libraries and Archives
 - [Sharon Grant](https://www.gbif.org/contact-us/directory?personId=4318), Delegate, Field Museum of Natural History
-- [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Node Staff, U.S. Geological Survey
+- [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Delegate, Node Staff, U.S. Geological Survey
 - [Mike Frame](https://www.gbif.org/contact-us/directory?personId=78), Delegate, U.S. Geological Survey
 - [Leonard Krishtalka](https://www.gbif.org/contact-us/directory?personId=880), Delegate, niversity of Kansas
 
