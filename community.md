@@ -4,8 +4,8 @@ lang-ref: community
 title: Community
 description: The US community is comprised of the US Delegation, nodes, publishers, installations, and networks working together to manage and use biodiversity data. It represents a subset of the GBIF North America community and focuses on matters that are specific to the United States.
 
-background: "{{site.data.images.ShortBeakedCommonDolphin.src}}"
-imageLicense: "{{site.data.images.ShortBeakedCommonDolphin.caption}}"
+#background: "{{site.data.images.ShortBeakedCommonDolphin.src}}"
+#imageLicense: "{{site.data.images.ShortBeakedCommonDolphin.caption}}"
 layout: heroImage
 height: 50vh
 ---
@@ -62,9 +62,13 @@ height: 50vh
 ------------
 The [United States](https://www.gbif.org/publisher/search?country=US) has over 330 publishers across many sectors.
 
-**Map of US Publishers (last updated March 2, 2023)**
+**Map of US Publishers** _(last updated March 2, 2023)_
 
-{% leaflet_map %}
+{% leaflet_map { 
+
+	"center" : [0,  -1501.0074],
+    "zoom" : 2} %}
+				 
     {% leaflet_geojson "/assets/GBIF_US_publishers.geojson" %}
 
 {% endleaflet_map %}
