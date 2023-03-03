@@ -66,8 +66,8 @@ The [United States](https://www.gbif.org/publisher/search?country=US) has over 3
 
 {% leaflet_map { 
 
-	"center" : [0, 20],
-    "zoom" : 2} %}
+	"center" : [0, 40],
+    "zoom" : 1} %}
 				 
     {% leaflet_geojson "/assets/GBIF_US_publishers.geojson" %}
 
