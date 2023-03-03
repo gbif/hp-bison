@@ -60,12 +60,14 @@ height: 50vh
 
 <a name="publishers"></a>Publishers
 ------------
-The [United States](https://www.gbif.org/publisher/search?country=US) has over 330 publishers 
-from across many sectors.
+The [United States](https://www.gbif.org/publisher/search?country=US) has over 330 publishers across many sectors.
 
-Test Map of US Publishers (last updated Feb 21, 2023)
+**Map of US Publishers (last updated March 2, 2023)**
 
-![Map of US Publishers (last updated Feb 21, 2023)](/assets/images/test_GBIF_US_publisher_map.png)
+{% leaflet_map %}
+    {% leaflet_geojson "/assets/GBIF_US_publishers.geojson" %}
+
+{% endleaflet_map %}
 
 <a name="networks"></a>Networks
 ------------
