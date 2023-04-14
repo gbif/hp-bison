@@ -4,9 +4,9 @@ layout: home
 # preTitle: GBIF.US
 title: Species observations for the United States and Territories
 # description: Species occurrences for the United States and U.S. Territories.
-background: /assets/images/pronghorn_inat_mmcmasters.jpg
+background: /assets/images/desertcandle_inat_morganstickrod.jpeg
 imageLicense: |
-  [Pronghorn](/data?entity=3344008750&filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjQ0MDkwMl19fQ%3D%3D&view=TABLE) - photo by mmcmasters via [inaturalist.org](https://www.inaturalist.org/observations/92171021)
+  [DesertCandle](/data/?entity=3079800274&view=TABLE) - photo by morganstickrod via [inaturalist.org](https://www.inaturalist.org/observations/72698865)
 height: 85vh
 parallax: true
 cta:
