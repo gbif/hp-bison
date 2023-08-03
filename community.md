@@ -28,7 +28,7 @@ height: 50vh
 > Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-bison/issues) for us so we can update the page.
 
 
-# GBIF US Community Participants 
+# GBIF US Community Participants
 ------------------------------
 <a name="delegation"></a>
 
@@ -41,7 +41,8 @@ height: 50vh
 - [Sharon Grant](https://www.gbif.org/contact-us/directory?personId=4318), Delegate, Field Museum of Natural History
 - [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Delegate, Node Staff, U.S. Geological Survey
 - [Mike Frame](https://www.gbif.org/contact-us/directory?personId=78), Delegate, U.S. Geological Survey
-- [Leonard Krishtalka](https://www.gbif.org/contact-us/directory?personId=880), Delegate, niversity of Kansas
+- [David Jennings](https://www.gbif.org/contact-us/directory?personId=3940), Delegate, iDigBio
+- [Leonard Krishtalka](https://www.gbif.org/contact-us/directory?personId=880), Delegate, University of Kansas (stepping down in FY24)
 
 <a name="nodes"></a>Participant Nodes
 ------------
