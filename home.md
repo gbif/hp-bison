@@ -4,9 +4,9 @@ layout: home
 # preTitle: GBIF.US
 title: Species observations for the United States and Territories
 # description: Species occurrences for the United States and U.S. Territories.
-background: /assets/images/desertcandle_inat_morganstickrod.jpeg
+background: /assets/images/eastern_american_jol_fungus_inat_catslovetofindplants.jpg
 imageLicense: |
-  [DesertCandle](/data/?entity=3079800274&view=TABLE) - photo by morganstickrod via [inaturalist.org](https://www.inaturalist.org/observations/72698865)
+  Eastern American Jack-O'-Lantern - photo by catslovetofindplants via [inaturalist.org](https://www.inaturalist.org/observations/187710658)
 height: 85vh
 parallax: true
 cta:
@@ -37,7 +37,4 @@ composition:
     type: split
 ---
 
-The Global Biodiversity Information Facility (GBIF) national data portal for the United States is a pilot implementation managed by the [Science Analytics and Synthesis (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Program of the U.S. Geological Survey (USGS). It serves as an access point to biological observation data for the United States and U.S. Territories.  
- 
-
-
+The Global Biodiversity Information Facility (GBIF) national data portal for the United States is a pilot implementation managed by the [Science Analytics and Synthesis (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Program of the U.S. Geological Survey (USGS). It serves as an access point to biological observation data for the United States and U.S. Territories.
