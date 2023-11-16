@@ -35,14 +35,13 @@ height: 50vh
 ## US Delegation
 
 - [Katharina Dittmar](https://www.gbif.org/contact-us/directory?personId=4369), Head of delegation, National Science Foundation
-- [Abby Benson](https://www.gbif.org/contact-us/directory?personId=4029), Delegate, Node manager, U.S. Geological Survey
+- [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Delegate, Node manager, U.S. Geological Survey
+- [Abby Benson](https://www.gbif.org/contact-us/directory?personId=4029), Delegate, U.S. Geological Survey, National Nature Assessment
 - [Thomas Orrell](https://www.gbif.org/contact-us/directory?personId=138), Delegate, Smithsonian Institution
 - [Martin Kalfatovic](https://www.gbif.org/contact-us/directory?personId=3706), Delegate, Smithsonian Institution Libraries and Archives
 - [Sharon Grant](https://www.gbif.org/contact-us/directory?personId=4318), Delegate, Field Museum of Natural History
-- [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Delegate, Node Staff, U.S. Geological Survey
 - [Mike Frame](https://www.gbif.org/contact-us/directory?personId=78), Delegate, U.S. Geological Survey
 - [David Jennings](https://www.gbif.org/contact-us/directory?personId=3940), Delegate, iDigBio
-- [Leonard Krishtalka](https://www.gbif.org/contact-us/directory?personId=880), Delegate, University of Kansas (stepping down in FY24)
 
 <a name="nodes"></a>Participant Nodes
 ------------
@@ -64,7 +63,7 @@ height: 50vh
 ------------
 The [United States](https://www.gbif.org/publisher/search?country=US) has over 330 publishers across many sectors.
 
-**Map of US Publishers** _(last updated March 2, 2023)_
+**Map of US Publishers** _(last updated November 15, 2023)_
 
 {% leaflet_map { 
 
