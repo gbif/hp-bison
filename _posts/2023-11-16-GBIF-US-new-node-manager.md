@@ -2,7 +2,7 @@
 title: "GBIF-US has new node manager" 
 date: 2023-11-16 09:00:00 -0500 
 categories: ["Announcement"] 
-background: /assets/images/GRA-2023.jpg
+background: /assets/images/Abby_Steve_handshake.png
 preTitle: November 16, 2023
 ---
 
