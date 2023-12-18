@@ -2,7 +2,7 @@
 lang: en
 lang-ref: community
 title: Opportunities
-description: GBIF-US is a community that is dedicated to open and engaged science.  We're always interested in collaboration, feel free to send inquiries to gbif-us@usgs.gov.  Below are some opportunities that are available 
+description: GBIF-US is a community that is dedicated to open and engaged science.  We're always interested in collaboration, feel free to send inquiries to \ngbif-us@usgs.gov.  Below are some opportunities that are available 
 
 background: /assets/images/organisms/mountain_bluebird_wieferi9.jpg
 imageLicense: Photo by Daniel Wieferich
