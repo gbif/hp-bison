@@ -4,7 +4,7 @@ layout: home
 # preTitle: GBIF.US
 title: Species observations for the United States and Territories
 # description: Species occurrences for the United States and U.S. Territories.
-background: /assets/images/eastern_american_jol_fungus_inat_catslovetofindplants.jpg
+background: /assets/images/organisms/eastern_american_jol_fungus_inat_catslovetofindplants.jpg
 imageLicense: |
   Eastern American Jack-O'-Lantern - photo by catslovetofindplants via [inaturalist.org](https://www.inaturalist.org/observations/187710658)
 height: 85vh

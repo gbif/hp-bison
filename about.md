@@ -2,7 +2,7 @@
 lang-ref: about
 title: About
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/bison_inat_tuoichen.jpg
+background: /assets/images/organisms/bison_inat_tuoichen.jpg
 imageLicense: |
   photo by tuoichen via [inaturalist.org](https://www.inaturalist.org/observations/43215178)
 height: 75vh
