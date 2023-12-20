@@ -11,6 +11,9 @@ layout: heroImage
 height: 50vh
 ---
 
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
 ## Glossary
 [**Delegation**](#delegation): The team of people nominated by Participants to represent them in GBIF decision making, under the leadership of the Head of Delegation. Defined in the [Rules of Procedure for the Governing Board of the Global Biodiversity Information Facility](https://www.gbif.org/document/80667/rules-of-procedure-of-the-gbif-governing-board)
 
@@ -28,7 +31,7 @@ height: 50vh
 > Did we miss something? This page is an initial attempt to identify the community involved. If you notice something that needs to be added please [add a ticket to Github](https://github.com/gbif/hp-bison/issues) for us so we can update the page.
 
 
-# GBIF US Community Participants
+## GBIF US Community Participants
 ------------------------------
 <a name="delegation"></a>
 
