@@ -6,5 +6,5 @@ background: "/assets/images/people/Richards_photo.jpg"
 preTitle: January 1, 2024
 ---
 
-Some changes are happening on the GBIF-US staff! [Kyla Richards](https://oceanexpert.org/expert/62150) is the best. She is part of *SAS-USGS*. She is _very cool_! 
-Here is a `code block`
+Some changes are happening on the GBIF-US staff! [Kyla Richards](https://www.usgs.gov/staff-profiles/kyla-richards#science) has joined us as node staff for GBIF-US. Kyla a physical scientist for the U.S. Geological Survey in the Science Analytics and Sythesis program and is excited to work with GBIF-US in this collaboration to continue advancing open science.
+
