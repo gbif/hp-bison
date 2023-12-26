@@ -4,8 +4,9 @@ lang-ref: community
 title: Opportunities
 description: GBIF-US is a community that is dedicated to open and engaged science.  We're always interested in collaboration, please send inquiries to gbif-us@usgs.gov.  Below are some opportunities that are available 
 
-background: /assets/images/organisms/mountain_bluebird_wieferi9.jpg
-imageLicense: Photo by Daniel Wieferich
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/273716002/medium.jpg
+imageLicense: Photo by Jade Fortnash, licenced under CC0
+caption: blah
   
 layout: heroImage
 height: 50vh

@@ -3,7 +3,7 @@ title: "GBIF 2024 Graduate Researchers Award Call"
 date: 2023-12-20 09:00:00 -0500 
 categories: ["Announcement"] 
 background: http://images.ctfassets.net/uo17ejk9rkwj/4pNBPcOzwwK2kEBXJQIehA/519a9de18d0b32d5513b6e5934721822/GRA-2024-hero4-EN.png
-imageLicense:: "Illustration of Campylomormyrus mirus (Boulenger, 1898) from Matériaux pour la faune du Congo: Poissons nouveaux. (1898-1902) via Biodiversity Heritage Library, no rights reserved under CC0."
+imageLicense: "Illustration of Campylomormyrus mirus (Boulenger, 1898) from Matériaux pour la faune du Congo: Poissons nouveaux. (1898-1902) via Biodiversity Heritage Library, no rights reserved under CC0."
 preTitle: December 20, 2023
 ---
 
