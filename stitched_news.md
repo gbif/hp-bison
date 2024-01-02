@@ -1,7 +1,7 @@
 ---
 layout: compose
 composition:
-- type: latestPostsExample: 
+  type: latestPostsExample 
   title: "Example Title"
   description: Example Description
 ---
