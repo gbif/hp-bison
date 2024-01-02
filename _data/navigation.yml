@@ -2,14 +2,14 @@
 
 - text: About
   menu: # Dropdown menu (one level deep only)
-  -text: What is GBIF-US?
-  href: /about
+  - text: What is GBIF-US?
+    href: /about
   - text: Community
-  href: /community
-- text: Opportunities
-  href: /opportunities
+    href: /community
+  - text: Opportunities
+    href: /opportunities
   - text: FAQs
-  href: /faq
+    href: /faq
 - text: News
   href: /news
 - text: Data
