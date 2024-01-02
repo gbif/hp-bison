@@ -3,8 +3,7 @@
 title: "type: stories" 
 
 # Description (Optional)
-description: |
-  Some examples of GBIF-mediated data from the US. 
+description: "Some examples of GBIF-mediated data from the US."
   
 # Filters
 # Use these options to tailor the content displayed in your block.
