@@ -1,6 +1,9 @@
 ---
+layout: compose
+composition:
+- type: stories
 # Stories about GBIF-mediated US data
-title: "type: stories" 
+title: "Stories about GBIF-mediated US data" 
 
 # Description (Optional)
 description: "Some examples of GBIF-mediated data from the US."
