@@ -1,12 +1,4 @@
 ---
-boxExample: 
-  title: "type: boxHero"
-  description: See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L12) for the content structure.
-  background: /assets/img/Haeckel_Siphoneae.jpg
-postExample: 
-  title: "type: postHeader"
-  description: Description.
-  background: /assets/img/Haeckel_Siphoneae.jpg
 latestPostsExample: 
   title: "type: latestPosts"
   description: Description.
