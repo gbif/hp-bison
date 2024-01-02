@@ -19,7 +19,7 @@ filters:
     - DATA_USE
     - NEWS
     - EVENT
-    - LITERATURE
+    #- LITERATURE
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
