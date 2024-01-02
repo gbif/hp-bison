@@ -1,16 +1,23 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /about
-- text: Search
   menu: # Dropdown menu (one level deep only)
-  - text: Data
-    href: /data
-  - text: Literature
-    href: /literature
-
-#- text: Data
-#  href: /data
+  -text: What is GBIF-US?
+  href: /about
+  - text: Community
+  href: /community
+- text: Opportunities
+  href: /opportunities
+  - text: FAQs
+  href: /faq
+- text: News
+  href: /news
+- text: Data
+  href: /data
+- text: Literature
+  href: /literature
+- text: Stories
+  href: /stories
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Base theme demo
@@ -23,16 +30,4 @@
 #    href: https://guides.github.com/features/mastering-markdown/
 #  - text: YAML tutorial
 #    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: FAQ
-  href: /faq
-- text: News
-  href: /news
-#- text: Literature
-#  href: /literature
-- text: Community
-  href: /community
-- text: Opportunities
-  href: /opportunities
-- text: Stories
-  href: /stories
     
