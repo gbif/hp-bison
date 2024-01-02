@@ -2,6 +2,7 @@
 layout: compose
 composition:
 - type: stories
+
 # Stories about GBIF-mediated US data
 title: "Stories about GBIF-mediated US data" 
 
@@ -13,13 +14,12 @@ description: "Some examples of GBIF-mediated data from the US."
 
 filters:
   # Content Type Filter (Optional)
-  # Define which types of content to display. If unspecified, all types are shown.
-  contentType: 
-    - DATA_USE
-    # Uncomment below to add more content types:
-     - NEWS
-     - EVENT
-     - LITERATURE
+  # Define which types of content to display by uncommenting. If unspecified, all types are shown.
+  contentType:
+    - DATA_US
+    - NEWS
+    - EVENT
+    - LITERATURE
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
