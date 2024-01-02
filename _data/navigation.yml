@@ -2,8 +2,15 @@
 
 - text: About
   href: /about
-- text: Data
-  href: /data
+- text: Search
+  menu: # Dropdown menu (one level deep only)
+  - text: Data
+    href: /data
+  - text: Literature
+    href: /literature
+
+#- text: Data
+#  href: /data
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Base theme demo
@@ -20,8 +27,8 @@
   href: /faq
 - text: News
   href: /news
-- text: Literature
-  href: /literature
+#- text: Literature
+#  href: /literature
 - text: Community
   href: /community
 - text: Opportunities
