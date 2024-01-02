@@ -1,3 +1,4 @@
+---
 # Stories about GBIF-mediated US data
 title: "type: stories" 
 
@@ -56,3 +57,5 @@ filters:
     - BIOGEOGRAPHY
     - BIODIVERSITY_SCIENCE
     - AGRICULTURE 
+    
+---
