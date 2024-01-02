@@ -5,8 +5,7 @@ title: Opportunities
 description: GBIF-US is a community that is dedicated to open and engaged science.  We're always interested in collaboration, please send inquiries to gbif-us@usgs.gov.  Below are some opportunities that are available 
 
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/96460960/large.jpg
-imageLicense: Photo by Jade Fortnash, licenced under CC0
-caption: blah
+imageLicense: Gopher tortoise [*Gopherus polyphemus*] observed in Florida, US by Lila. Photo via iNaturalist (CC0)
   
 layout: heroImage
 height: 50vh
