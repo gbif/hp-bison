@@ -2,7 +2,7 @@
 title: "GBIF-US has new staff" 
 date: 2024-01-01 09:00:00 -0500 
 categories: ["Announcement"] 
-background: /assets/images/people/KRichards_wide_format_headshot.jpg
+background: /assets/images/people/KRichards_circle_headshot.jpg
 preTitle: January 1, 2024
 ---
 
