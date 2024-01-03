@@ -1,8 +1,8 @@
 ---
 lang-ref: archive
 layout: archive
-title: News
-description: News and events
+title: GBIF-US News and Events
+#description: 
 permalink: /news/
 ---
 {% comment %}

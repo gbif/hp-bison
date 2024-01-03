@@ -1,7 +1,7 @@
 ---
 lang-ref: faq
-title: Frequently Asked Questions
-description: This page provides answers to frequently asked questions related to GBIF-US.
+title: Frequently Asked Questions (FAQs)
+description: This page provides answers to frequently asked questions about GBIF-US.
 background: /assets/images/organisms/mountain_bluebird_wieferi9.jpg
 imageLicense: |
   Photo by Daniel Wieferich
@@ -14,13 +14,13 @@ GBIF-US primarily uses the [Darwin Core](https://dwc.tdwg.org/), [Darwin Core ex
 
 #### What is "species occurrence data" and why is it important?
 
-Most research on biological organisms in nature involves recording or collecting evidence of an occurrence of a species by a person (or instrument) at a particular place and time. We refer to these data in general terms as "species occurrence data". Regardless of the initial reason the species occurrence was recorded, the knowledge that it was actually at a specific place at a specific time is extremely useful in many areas of science and natural resource management. For example, these occurrence records are instrumental in tracking the spread of *invasive species*, the decline of *threatened species*, and the movement of ranges in *response to climate change* or other environmental factors. Species occurrence data are used as baseline data for *modeling and analysis*, in ecological research, and in the *management of natural resources*. 
+Most research on biological organisms in nature involves recording or collecting evidence of an occurrence of a species by a person (or instrument) at a particular place and time. We refer to these data in general terms as "species occurrence data". Regardless of the initial reason the species occurrence was recorded, the knowledge that it was actually at a specific place at a specific time is extremely useful in many areas of science and natural resource management. For example, these occurrence records are instrumental in tracking the spread of **invasive species**, the decline of **threatened species**, and the movement of ranges in **response to climate change** or other environmental factors. Species occurrence data are used as baseline data for **modeling and analysis**, in ecological research, and in the **management of natural resources**. 
 
 Each record in a species occurrence dataset available through GBIF-US will typically consist of a scientific name (genus and specific epithet), a date, and one or more geographic references such as a state or province name, county name, and/or decimal latitude and longitude coordinates. In addition to these typical data fields, species occurrence datasets often include many other data fields that describe each species occurrence event in more detail. 
 
 #### How can I share biodiversity data with GBIF?
 
-GBIF-US shares data with GBIF using the [Integrated Publishing Toolkit (IPT)](https://ipt.gbif.org/) and operates the U.S. Node to GBIF. As part of those operations, USGS assists data providers with standardizing their data using Darwin Core, loading data to the GBIF-US IPT, conducting analyses using GBIF mobilized data, and other activities to support the network of data providers in the U.S.  Please don't ever be shy about asking us for help with any of these activities! 
+GBIF-US shares data with GBIF using the [Integrated Publishing Toolkit (IPT)](https://ipt.gbif.us/) and operates the U.S. Node to GBIF. As part of those operations, USGS assists data providers with standardizing their data using Darwin Core, loading data to the GBIF-US IPT, conducting analyses using GBIF mobilized data, and other activities to support the network of data providers in the U.S.  Please don't ever be shy about asking us for help with any of these activities! 
 
 #### How can I get endorsed as a data publisher by GBIF-US?
 

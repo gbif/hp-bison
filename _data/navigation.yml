@@ -11,13 +11,18 @@
   - text: FAQs
     href: /faq
 - text: News
-  href: /news
+  menu: # Dropdown menu (one level deep only)
+  - text: GBIF-US Posts
+    href: /news
+  - text: US News, Stories and Events from GBIF.org
+    href: /stories
+  - text: Recent Citations of GBIF-US Data
+    href: /recent_literature
 - text: Data
   href: /data
 - text: Literature
   href: /literature
-- text: Stories
-  href: /stories
+
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Base theme demo

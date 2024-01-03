@@ -4,10 +4,10 @@ composition:
 - type: stories
 
 # Stories about GBIF-mediated US data
-title: US News, Stories and Events from GBIF.org
+title: Recent citations of GBIF-mediated, US data.
 
 # Description (Optional)
-#description: "Some examples of GBIF-mediated data from the US."
+description: Recent literature citing GBIF-mediated, US data.
   
 # Filters
 # Use these options to tailor the content displayed in your block.
@@ -16,10 +16,10 @@ filters:
   # Content Type Filter (Optional)
   # Define which types of content to display by uncommenting. If unspecified, all types are shown.
   contentType:
-    - DATA_USE
-    - NEWS
-    - EVENT
-    #- LITERATURE
+    #- DATA_USE
+    #- NEWS
+    #- EVENT
+    - LITERATURE
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
