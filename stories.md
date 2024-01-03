@@ -16,9 +16,9 @@ filters:
   # Content Type Filter (Optional)
   # Define which types of content to display by uncommenting. If unspecified, all types are shown.
   contentType:
-    #- DATA_USE
+    - DATA_USE
     - NEWS
-    # - EVENT
+    - EVENT
     #- LITERATURE
   
   # Display Limit (Optional)
