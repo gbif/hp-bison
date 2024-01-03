@@ -1,12 +1,16 @@
 ---
 lang-ref: about
-title: About
+title: What is GBIF-US?
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/organisms/bison_inat_tuoichen.jpg
 imageLicense: |
   photo by tuoichen via [inaturalist.org](https://www.inaturalist.org/observations/43215178)
-height: 75vh
+height: 60vh
 ---
-This implementation of a Global Biodiversity Information Facility (GBIF) national data portal serves as an access point to U.S. species occurrence data contributed to GBIF.  The [Science Analytics and Synthesis Program (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) of the U.S. Geological Survey (USGS) manages the U.S. Node to GBIF, GBIF-US, to facilitate access to species occurrence data (i.e. presence, absence, or abundance with any unit of quantity), analyses and investigations of species trends, drivers of change, and potential implications of future changes in biodiversity in the United States and U.S. Territories. The [Biodiversity Information Serving Our Nation (BISON)](https://www.sciencebase.gov/catalog/item/5138e8e5e4b02c509e50c57f) project provided the foundation for the current implementation of GBIF-US.  
+GBIF-US is the US node for the Global Biodiversity Information Facility (GBIF). GBIF-US is responsible for coordinating GBIF-related in-country activities, guided by the [delegation](/community/#us-delegation) and [community](/community). This national data portal serves as an access point to U.S. species occurrence data contributed to GBIF.  
 
-Occurrence data are a type of observational data that are records of an organism at a particular time in a particular place, and serve as a primary or ancillary function of many biological field investigations. These data often reside in numerous distributed systems and formats (including publications) and are consequently not being used to their full potential. USGS SAS accomplishes its mission of mobilizing biodiversity information for the U.S. and U.S. Territories by providing bioinformatic tools, data and models for researchers, government decision-makers and other stakeholders. In addition to this national portal, USGS SAS also manages an [Integrated Publishing Toolkit (IPT) instance](https://ipt.gbif.us/) as part of that mission and the U.S. contribution to GBIF. USGS SAS will continue to leverage the accumulated human and infrastructural resources of the long-term USGS investment in research and information management and delivery.  
+### What role does USGS play?
+The [Science Analytics and Synthesis Program (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) of the U.S. Geological Survey (USGS) manages GBIF-US to facilitate access to species occurrence data. In addition to this national portal, USGS SAS also manages an [Integrated Publishing Toolkit (IPT) instance](https://ipt.gbif.us/) to faciliate publication of data to GBIF.  The [Biodiversity Information Serving Our Nation (BISON)](https://www.sciencebase.gov/catalog/item/5138e8e5e4b02c509e50c57f) project provided the foundation for the current implementation of GBIF-US.
+
+### What are species occurrence data?
+Species occurrence data are records of an organism at a particular time in a particular place, and are primary or ancillary evidence for many biological field investigations. Records may describe presence, absence, or abundance (with any unit of quantity) and support analyses and investigations of species trends, drivers of change, and potential implications of future changes in biodiversity in the United States and U.S. Territories. 
