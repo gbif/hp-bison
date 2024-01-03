@@ -10,7 +10,7 @@ imageLicense: |
 height: 85vh
 parallax: true
 cta:
-  - text: Start exploring
+  - text: Explore Data
     href: /data
     isPrimary: true
   - text: About
@@ -36,5 +36,3 @@ composition:
   - data: home.fossil
     type: split
 ---
-
-The Global Biodiversity Information Facility (GBIF) national data portal for the United States is a pilot implementation managed by the [Science Analytics and Synthesis (SAS)](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) Program of the U.S. Geological Survey (USGS). It serves as an access point to biological observation data for the United States and U.S. Territories.
