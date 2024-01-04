@@ -7,7 +7,7 @@ title: Species observations for the United States and Territories
 background: /assets/images/organisms/eastern_american_jol_fungus_inat_catslovetofindplants.jpg
 imageLicense: |
   Eastern American Jack-O'-Lantern - photo by catslovetofindplants via [inaturalist.org](https://www.inaturalist.org/observations/187710658)
-height: 55vh
+height: 85vh
 parallax: true
 cta:
   - text: Explore Data
