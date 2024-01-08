@@ -2,7 +2,7 @@
 lang-ref: archive
 layout: archive
 title: GBIF-US News and Events
-#description: 
+description: We share important updates and interested news here.  For similar items published by the GBIF secretariat, please see [here](/stories).
 permalink: /news/
 ---
 {% comment %}

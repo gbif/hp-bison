@@ -12,11 +12,11 @@
     href: /faq
 - text: News
   menu: # Dropdown menu (one level deep only)
-  - text: GBIF-US Posts
+  - text: Our Blog
     href: /news
-  - text: US News, Stories and Events from GBIF.org
+  - text: From GBIF.org
     href: /stories
-  - text: Recent Citations of GBIF-US Data
+  - text: Recent Citations
     href: /recent_literature
 - text: Data
   href: /data
