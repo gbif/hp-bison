@@ -28,6 +28,7 @@ composition:
   
   
   - type: latestPosts
+    description: Recent Posts
     inlineData: "nonsense"
   - data: home.nearYou
     type: split
