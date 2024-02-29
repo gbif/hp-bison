@@ -1,6 +1,6 @@
 ---
 title: "Happy World Seagrass Day!" 
-date: 2024-03-01 01:00:00 -0500 
+date: 2024-02-29 01:00:00 -0500 
 categories: ["Announcement"] 
 background: /assets/images/organisms/Halophila_hawaiiana.png
 imageLicense: | 
