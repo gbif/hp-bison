@@ -7,7 +7,9 @@ imageLicense: _Halophila hawaiiana_ Maunalua Bay, Oahu, HI USA. by Kyla Richards
 preTitle: March 1, 2024
 ---
 
-Happy World Seagrass Day, GBIF-US community! [World Seagrass Day](https://www.un.org/en/observances/seagrass-day) was created by the UN General Assembly in 2022 to raise awareness for the conservation of seagrasses. You may be wondering what makes seagrass worth celebrating. Well, seagrass isn't just a type of plant, but also a valued ecosystem for a number of reasons: it provides extensive habitat and food for fish, invertebrates, epiphytic algae and microbes; it helps sequester carbon; it provides forage for rare and endangered species, including manatees and sea turtles; it improves water quality and stabilizes the sediment, helping to protect coastal zones and reefs from wave damage and erosion [(Mtwana et al., 2016)](https://doi.org/10.1371/journal.pone.0163091). 
+Happy World Seagrass Day, GBIF-US community! [World Seagrass Day](https://www.un.org/en/observances/seagrass-day) was created by the UN General Assembly in 2022 to raise awareness for the conservation of seagrasses. You may be wondering what makes seagrass worth celebrating? 
+
+Well, seagrass isn't just a type of plant, but also a valued ecosystem for a number of reasons: it provides extensive habitat and food for fish, invertebrates, epiphytic algae and microbes; it helps sequester carbon; it provides forage for rare and endangered species, including manatees and sea turtles; it improves water quality and stabilizes the sediment, helping to protect coastal zones and reefs from wave damage and erosion [(Mtwana et al., 2016)](https://doi.org/10.1371/journal.pone.0163091). 
 
 Unfortunately, even though we understand how important seagrasses are, there is a global decline in seagrass populations. The scientific community has called for ongoing assessments of the status of seagrass populations to help us understand the factors that may be contributing to this decline [(Waycott et al., 2009)](https://doi.org/10.1073/pnas.0905620106 ). GBIF-US can help by coordinating these assessments in a central location, and in a standardized format. 
 
