@@ -23,7 +23,7 @@ filters:
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
-  limit: 9 
+  limit: 6
 
   # Filter content by researcher's country using ISO country codes. (Optional)
   countriesOfResearcher: 
@@ -60,4 +60,15 @@ filters:
     - BIODIVERSITY_SCIENCE
     - AGRICULTURE 
     
+  - type: latestPosts
+    description: Recent Posts
+    inlineData: "nonsense"
+  - data: home.nearYou
+    type: split
+  # - data: home.mepeck
+  #   type: split
+  - data: home.dataset
+    type: split
+  - data: home.fossil
+    type: split
 ---
