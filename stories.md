@@ -6,7 +6,7 @@ parallax: true
 
 composition:
   - type: stories
-  description: US News, from GBIF.org
+    description: US News, from GBIF.org
     filters:
       # Content Type Filter (Optional)
       # Define which types of content to display. If unspecified, all types are shown.
