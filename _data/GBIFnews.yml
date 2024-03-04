@@ -1,7 +1,7 @@
 # "Stories" Block Configuration Guide
 
 # Title (Optional)
-title: "Relevant Events from GBIF.org" 
+title: "Relevant News from GBIF.org" 
 
 # Description (Optional)
 #description:  
@@ -28,8 +28,8 @@ filters:
     # Add more country codes for filtering (e.g., - GB, - CA, etc.)
 
   # Filter content by country or coverage using ISO country codes. (Optional)
-  #countriesOfCoverage:
-  #  - US
+  countriesOfCoverage:
+    - US
     # Add more country codes for filtering.
 
   # Topic Filters (Optional)
