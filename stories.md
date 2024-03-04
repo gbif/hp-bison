@@ -9,6 +9,8 @@ composition:
   - type: stories
     data: GBIFdataUse
   - type: stories
-    data: GBIFnews  
+    data: GBIFnews
+  - type: stories
+    data: GBIFevents  
     
 ---

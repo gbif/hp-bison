@@ -14,8 +14,8 @@ filters:
   contentType: 
     #- DATA_USE
     # Uncomment below to add more content types:
-    - NEWS
-    #- EVENT
+    #- NEWS
+    - EVENT
     # - LITERATURE
   
   # Display Limit (Optional)
