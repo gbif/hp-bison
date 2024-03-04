@@ -115,6 +115,8 @@ storiesDatauseUS:
     limit: 3
     countriesOfCoverage:
       - US, -PR
+    countriesOfResearcher:
+      - US, -PR
 
 storiesnewsGBIF:
   title: Recently posted GBIF news
@@ -124,6 +126,10 @@ storiesnewsGBIF:
     contentType:
       - NEWS
     limit: 3
+    countriesOfCoverage:
+      - US, -PR
+    countriesOfResearcher:
+      - US, -PR
 
 storieseventsGBIF:
   title: Recently posted GBIF events
@@ -133,3 +139,7 @@ storieseventsGBIF:
     contentType:
       - EVENT
     limit: 3
+    countriesOfCoverage:
+      - US, -PR
+    countriesOfResearcher:
+      - US, -PR
