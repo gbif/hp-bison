@@ -18,8 +18,8 @@ filters:
   # Define which types of content to display by uncommenting. If unspecified, all types are shown.
   contentType:
     - DATA_USE
-    #- NEWS
-    #- EVENT
+    - NEWS
+    - EVENT
     #- LITERATURE
   
   # Display Limit (Optional)
