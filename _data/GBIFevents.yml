@@ -4,22 +4,8 @@
 title: "type: stories" 
 
 # Description (Optional)
-description: |
-  The "stories" block is designed to showcase dynamic content such as news, data use, literature, and events. Customize it to highlight relevant content based on your preferences. 
-  
-  **Here are some ways you can use it:**
-  - Spotlight the significance of US biodiversity data in global human health research.
-  - Feature research influenced by biodiversity data and its impact on the US.
-  - Promote upcoming events.
-  - Present the latest news tailored to your chosen topics.
-  
-  **For multilingual sites, remember to:**
-  - Add necessary translations for DataUse, News, Event, and Literature in [`_data/translations.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/translations.yml).
-  - Specify the desired language code for the stories block under `storiesLocale` in [`_data/languages.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/languages.yml).
-
-
-  **To dive deeper into content selection options and the block's structure, refer to the [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/stories.yml).**
-
+#description: You must have a description or it doesn't work. 
+ 
 # Filters
 # Use these options to tailor the content displayed in your block.
 filters:
