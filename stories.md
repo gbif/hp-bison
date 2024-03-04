@@ -9,13 +9,10 @@ layout: compose
 composition:
   - type: stories
     data: stories.GBIF_data_use
-    type: split
     
   - type: stories
     data: stories.GBIF_news
-    type: split
     
   - type: stories
-    data: stories.GBIF_events
-    type: split
+    data: stories.GBIF_event
 ---
