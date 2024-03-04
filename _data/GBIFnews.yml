@@ -20,4 +20,25 @@ filters:
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
   limit: 9
-  audiences: GBIF_NETWORK
+  # Topic Filters (Optional)
+  # Use these codes to filter content by specific topics.
+  topics:
+    # Uncomment any topics you want to exclude from the block.
+    - DNA
+    - DATA_PAPER
+    - INFRASTRUCTURE
+    - TAXONOMY
+    - SPECIES_DISTRIBUTIONS
+    - PHYLOGENETICS
+    - MARINE
+    - INVASIVES
+    - HUMAN_HEALTH
+    - FRESHWATER
+    - EVOLUTION
+    - ECOSYSTEM_SERVICES
+    - ECOLOGY
+    - DATA_MANAGEMENT
+    - CONSERVATION
+    - CLIMATE_CHANGE
+    - CITIZEN_SCIENCE
+    - BIOGEOGRAPHY
