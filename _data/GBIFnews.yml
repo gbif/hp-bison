@@ -1,7 +1,7 @@
 # "Stories" Block Configuration Guide
 
 # Title (Optional)
-title: "US Relevant Data Use from GBIF.org" 
+title: "US Relevant news from GBIF.org" 
 
 # Description (Optional)
 #description: 
@@ -11,12 +11,13 @@ filters:
   # Content Type Filter (Optional)
   # Define which types of content to display. If unspecified, all types are shown.
   contentType: 
-    - DATA_USE
+    #- DATA_USE
     # Uncomment below to add more content types:
-    #- NEWS
+    - NEWS
     #- EVENT
     # - LITERATURE
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
   limit: 9
+  audiences: GBIF_NETWORK

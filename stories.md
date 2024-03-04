@@ -6,11 +6,11 @@ parallax: true
 
 composition:
   - type: stories
-    data: dataUse
+    data: GBIFdataUse
     
   - type: stories
-    data: news
+    data: GBIFnews
     
   - type: stories
-    data: events
+    data: GBIFevents
 ---
