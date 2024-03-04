@@ -5,12 +5,12 @@ layout: compose
 parallax: true
 
 composition:
-  - type: stories
+  - type: features
     data: home.storiesDatauseUS
     
-  - type: stories
+  - type: features
     data: home.storiesnewsGBIF
     
-  - type: stories
+  - type: features
     data: home.storieseventsGBIF
 ---
