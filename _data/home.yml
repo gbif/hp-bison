@@ -119,6 +119,7 @@ storiesDatauseUS:
 storiesnewsGBIF:
   title: Recently posted GBIF news
   description: Relevant news from GBIF.org
+  useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
   filters:
     contentType:
       - NEWS
@@ -127,6 +128,7 @@ storiesnewsGBIF:
 storieseventsGBIF:
   title: Recently posted GBIF events
   description: Relevant events from GBIF.org.
+  useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
   filters:
     contentType:
       - EVENT
