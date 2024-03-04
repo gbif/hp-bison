@@ -12,10 +12,9 @@ filters:
   # Content Type Filter (Optional)
   # Define which types of content to display. If unspecified, all types are shown.
   contentType: 
-    - NEWS
+    #- NEWS
     #- DATA_USE
     # Uncomment below to add more content types:
-    
     #- EVENT
     # - LITERATURE
   
