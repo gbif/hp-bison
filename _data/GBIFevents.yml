@@ -1,7 +1,7 @@
 # "Stories" Block Configuration Guide
 
 # Title (Optional)
-title: "type: stories" 
+title: "Relevant Events from GBIF.org" 
 
 # Description (Optional)
 #description: You must have a description or it doesn't work. 
@@ -12,24 +12,24 @@ filters:
   # Content Type Filter (Optional)
   # Define which types of content to display. If unspecified, all types are shown.
   contentType: 
-    - DATA_USE
+    #- DATA_USE
     # Uncomment below to add more content types:
     # - NEWS
-    # - EVENT
+     - EVENT
     # - LITERATURE
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
-  limit: 6 
+  limit: 3 
 
   # Filter content by researcher's country using ISO country codes. (Optional)
-  countriesOfResearcher: 
-    - US
+  #countriesOfResearcher: 
+  #  - US
     # Add more country codes for filtering (e.g., - GB, - CA, etc.)
 
   # Filter content by country or coverage using ISO country codes. (Optional)
-  countriesOfCoverage:
-    - US
+  #countriesOfCoverage:
+  #  - US
     # Add more country codes for filtering.
 
   # Topic Filters (Optional)
