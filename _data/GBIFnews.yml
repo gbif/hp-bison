@@ -56,3 +56,6 @@ filters:
     - BIOGEOGRAPHY
     - BIODIVERSITY_SCIENCE
     - AGRICULTURE 
+
+audiences: 
+  - GBIF_NETWORK
