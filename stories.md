@@ -1,45 +1,11 @@
 ---
 # Stories about GBIF-mediated US data
-title: US News, Stories and Events from GBIF.org
 layout: compose
-parallax: true
-# Description (Optional)
-#description: 
-# Filters
-# Use these options to tailor the content displayed in your block.
-filters:
-  # Content Type Filter (Optional)
-  # Define which types of content to display. If unspecified, all types are shown.
-  contentType: 
-    - DATA_USE
-    # Uncomment below to add more content types:
-    #- NEWS
-    #- EVENT
-    # - LITERATURE
-  
-  # Display Limit (Optional)
-  # Set the number of items to showcase. Default is 6.
-  limit: 3
-  # Topic Filters (Optional)
-  # Use these codes to filter content by specific topics.
-  topics:
-    # Uncomment any topics you want to exclude from the block.
-    - DNA
-    - DATA_PAPER
-    - INFRASTRUCTURE
-    - TAXONOMY
-    - SPECIES_DISTRIBUTIONS
-    - PHYLOGENETICS
-    - MARINE
-    - INVASIVES
-    - HUMAN_HEALTH
-    - FRESHWATER
-    - EVOLUTION
-    - ECOSYSTEM_SERVICES
-    - ECOLOGY
-    - DATA_MANAGEMENT
-    - CONSERVATION
-    - CLIMATE_CHANGE
-    - CITIZEN_SCIENCE
-    - BIOGEOGRAPHY
+klass: compositionBlocks
+title: US Relevant Items from GBIF.org
+description: This page pulls in news, data use, and event stories from GBIF.org.
+composition:
+
+  - type: stories
+    data: compose.GBIFevents
 ---
