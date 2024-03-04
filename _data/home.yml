@@ -108,38 +108,32 @@ fossil:
 storiesDatauseUS:
   title: Recently posted GBIF data use of US data
   description: Spotlighting research that impacts the US and is powered by biodiversity data.
-  useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
+  #useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
   filters:
     contentType:
       - DATA_USE
     limit: 3
-    countriesOfCoverage:
-      - US, -PR
     countriesOfResearcher:
       - US, -PR
 
 storiesnewsGBIF:
   title: Recently posted GBIF news
   description: Relevant news from GBIF.org
-  useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
+  #useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
   filters:
     contentType:
       - NEWS
     limit: 3
-    countriesOfCoverage:
-      - US, -PR
     countriesOfResearcher:
       - US, -PR
 
 storieseventsGBIF:
   title: Recently posted GBIF events
   description: Relevant events from GBIF.org.
-  useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
+  #useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
   filters:
     contentType:
       - EVENT
     limit: 3
-    countriesOfCoverage:
-      - US, -PR
     countriesOfResearcher:
       - US, -PR
