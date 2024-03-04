@@ -28,13 +28,13 @@ filters:
   contentType: 
     - DATA_USE
     # Uncomment below to add more content types:
-    - NEWS
-    - EVENT
+    #- NEWS
+    #- EVENT
     # - LITERATURE
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
-  limit: 6 
+  limit: 3
 
   # Filter content by researcher's country using ISO country codes. (Optional)
   countriesOfResearcher: 
