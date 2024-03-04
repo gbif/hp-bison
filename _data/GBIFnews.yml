@@ -1,10 +1,11 @@
 # "Stories" Block Configuration Guide
 
 # Title (Optional)
-title: "US Relevant news from GBIF.org" 
+title: "Relevant Events from GBIF.org" 
 
 # Description (Optional)
-#description: 
+#description:  
+ 
 # Filters
 # Use these options to tailor the content displayed in your block.
 filters:
@@ -19,7 +20,18 @@ filters:
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
-  limit: 3
+  limit: 3 
+
+  # Filter content by researcher's country using ISO country codes. (Optional)
+  countriesOfResearcher: 
+    - US
+    # Add more country codes for filtering (e.g., - GB, - CA, etc.)
+
+  # Filter content by country or coverage using ISO country codes. (Optional)
+  countriesOfCoverage:
+    - US
+    # Add more country codes for filtering.
+
   # Topic Filters (Optional)
   # Use these codes to filter content by specific topics.
   topics:
@@ -42,3 +54,5 @@ filters:
     - CLIMATE_CHANGE
     - CITIZEN_SCIENCE
     - BIOGEOGRAPHY
+    - BIODIVERSITY_SCIENCE
+    - AGRICULTURE 

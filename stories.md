@@ -7,5 +7,8 @@ description: This page pulls in news, data use, and event stories from GBIF.org.
 composition:
 
   - type: stories
-    data: GBIFevents
+    data: GBIFdataUse
+  - type: stories
+    data: GBIFnews  
+    
 ---
