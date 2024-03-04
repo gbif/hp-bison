@@ -104,3 +104,30 @@ fossil:
     isPrimary: true
   - text: See specimen
     href: /data?entity=2990961382
+
+storiesDatauseUS:
+  title: Recently posted GBIF data use of US data
+  description: Spotlighting research that impacts the US and is powered by biodiversity data.
+  useSiteLinkWhenPossible: true # requires a resourceKey page to be added on resource/[key] to work
+  filters:
+    contentType:
+      - DATA_USE
+    limit: 3
+    countriesOfCoverage:
+      - US, -PR
+
+storiesnewsGBIF:
+  title: Recently posted GBIF news
+  description: Relevant news from GBIF.org
+  filters:
+    contentType:
+      - NEWS
+    limit: 3
+
+storieseventsGBIF:
+  title: Recently posted GBIF events
+  description: Relevant events from GBIF.org.
+  filters:
+    contentType:
+      - EVENT
+    limit: 3
