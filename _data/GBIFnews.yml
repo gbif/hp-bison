@@ -20,7 +20,7 @@ filters:
   
   # Display Limit (Optional)
   # Set the number of items to showcase. Default is 6.
-  limit: 3 
+  limit: 9 
 
   # Filter content by researcher's country using ISO country codes. (Optional)
   #countriesOfResearcher: 
@@ -29,7 +29,7 @@ filters:
 
   # Filter content by country or coverage using ISO country codes. (Optional)
   countriesOfCoverage:
-    - US, -UM, -AS, -FM, -GU, -MH, -MP, -PR, -PW, -VI
+    - US, - UM, - AS, - FM, - GU, - MH, - MP, - PR, - PW, - VI
     # Add more country codes for filtering.
 
   # Topic Filters (Optional)
