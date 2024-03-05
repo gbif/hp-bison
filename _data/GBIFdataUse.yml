@@ -34,7 +34,7 @@ filters:
 
   # Topic Filters (Optional)
   # Use these codes to filter content by specific topics.
-  topics:
+  #topics:
     # Uncomment any topics you want to exclude from the block.
     # - DNA
     # - DATA_PAPER
