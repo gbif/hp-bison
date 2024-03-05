@@ -6,6 +6,6 @@ title: US Relevant Items from GBIF.org
 description: This page pulls in news, data use, and event stories from GBIF.org.
 composition:
 - type: stories
-  data: stories.GBIFevents
+  data: GBIFevents
     
 ---

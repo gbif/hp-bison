@@ -117,8 +117,3 @@ defaults:
     #  path: "da/"
    # values:
     #  lang: da
-
-collections:
-  stories:
-    output: true
-    permalink: /stories/:path/
