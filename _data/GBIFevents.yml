@@ -5,7 +5,7 @@ title: "Relevant Events from GBIF.org"
 id: "stories-events"
 
 # Description (Optional)
-description: description:  This shows the three most recent event items from GBIF.org in which the US, or a US territory, is tagged.  To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=event&countriesOfCoverage=US&countriesOfCoverage=UM&countriesOfCoverage=AS&countriesOfCoverage=FM&countriesOfCoverage=GU&countriesOfCoverage=MH&countriesOfCoverage=MP&countriesOfCoverage=PR&countriesOfCoverage=PW&countriesOfCoverage=VI)
+description: This shows the three most recent event items from GBIF.org in which the US, or a US territory, is tagged.  To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=event&countriesOfCoverage=US&countriesOfCoverage=UM&countriesOfCoverage=AS&countriesOfCoverage=FM&countriesOfCoverage=GU&countriesOfCoverage=MH&countriesOfCoverage=MP&countriesOfCoverage=PR&countriesOfCoverage=PW&countriesOfCoverage=VI)
 
 # Filters
 # Use these options to tailor the content displayed in your block.
