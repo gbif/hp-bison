@@ -1,4 +1,4 @@
 url: "https://hp-bison.gbif-uat.org"
 
-include: # this include is only to NOT exclude the examples page on staging
+include: # this include is only to NOT exclude the examples page on UAT
   - examples/
