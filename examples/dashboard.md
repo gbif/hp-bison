@@ -19,7 +19,7 @@ composition:
         type: equals
         key: projectId
         value: NCRMP
-      charts: [dataQuality, occurrenceIssue, iucnCounts, iucn, year, datasetKey, taxa] 
+      charts: [occurrenceSummary, dataQuality, occurrenceIssue, iucnCounts, iucn, year, datasetKey, taxa] 
       # currently available types as of march 2024: [iucn, license, basisOfRecord, year, synonyms, iucnCounts, country, continent, dwcaExtension, eventId, gadmGid, mediaType, networkKey, publisherKey, publishingCountryCode, protocol, sampleSizeUnit, samplingProtocol, typeStatus, waterBody, collectionCode, institutionCode, stateProvince, identifiedBy, recordedBy, establishmentMeans, month, preparations, datasetKey, taxa, occurrenceIssue, dataQuality, occurrenceSummary, collectionKey, institutionKey, catalogNumber]
 ---
 
