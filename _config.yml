@@ -91,6 +91,7 @@ exclude:
   - .LICENSE
   - .netlify.toml
   - .README.md
+  - examples/
 
 permalink: pretty # will strip extensions like .html from urls
 

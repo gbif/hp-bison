@@ -1,0 +1,4 @@
+url: "https://hp-bison.gbif-staging.org"
+
+include: # this include is only to NOT exclude the examples page on staging
+  - examples/
