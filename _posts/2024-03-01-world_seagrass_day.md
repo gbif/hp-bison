@@ -1,7 +1,7 @@
 ---
 title: "Happy World Seagrass Day!" 
 date: 2024-03-01 01:00:00 -0500 
-categories: ["Announcement"] 
+categories: ["Celebration"] 
 background: /assets/images/organisms/Halophila_hawaiiana.png
 imageLicense: _Halophila hawaiiana_ Maunalua Bay, Oahu, HI USA. by Kyla Richards, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 preTitle: March 1, 2024
