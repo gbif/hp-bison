@@ -1,31 +1,17 @@
 ---
-title: "Arbor Day" 
-date: 2024-04-16 00:00:01 -0500 
-categories: ["Celebration"] 
-background: "https://inaturalist-open-data.s3.amazonaws.com/photos/58356780/large.jpg"
-imageLicense: Southern Live Oak (_Quercus virginiana_) Alachua County, FL, USA. by Kent McFarland, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)Trees
-preTitle: April 26, 2024
+title: "Linking GBIF, OBIS, and FIshBase with AphiaIDs" 
+date: 2024-04-17 00:00:01 -0500 
+categories: ["Data Tips"] 
+background: "https://www.inaturalist.org/photos/316180760?size=large"
+imageLicense: Coho Salmon (_Oncorhynchus kisutch_) Sitka, AK, USA. by stevestevens via iNaturalist, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)Trees
+preTitle: April 17, 2024
 ---
 
-_Happy Arbor day! We celebrate Arbor Day on the last Friday in April in the United States.  However, people all over the world set aside a day to [celebrate trees](https://en.wikipedia.org/wiki/Arbor_Day)!_
+### How do I search GBIF, OBIS, and Fishbase using an AphiaID?
 
-### Do you want a brief explanation of an acorn?
-
-In a nutshell, it’s an oak tree.
-
-Trees! Birds love them. Squirrels love them. What’s not to love? They provide us shade, sequester carbon, and make a great place to hang a hammock. Like old friends, trees lack a precise definition ([Ehrenberg 2018](https://doi.org/10.1146/knowable-033018-032602)), but you know them when you see them.  Nevertheless, trees are represented by around 60,000 species ([Beech et al., 2017](https://doi.org/10.1080/10549811.2017.1310049)), they convey countless benefits to our health and happiness.
-
-Trees fortify the way we see the world. Our astronauts can see them. Our poet laureate wrote them a love letter ([Limón 2022](https://www.everand.com/audiobook/579371936/Shelter-A-Love-Letter-to-Trees )). We use them to assess the world around us, and measure biodiversity in natural and urban environments. For example, data mediated via GBIF includes datasets like the New York City Tree Count ([1995](https://www.gbif.org/dataset/5f06e39d-81cf-4606-8891-6db72600231b), [2005](https://www.gbif.org/dataset/c4e1739b-e225-4773-b2ca-b9dd90846c62), and [2015](https://www.gbif.org/dataset/d1e9202b-7300-4712-868c-d25133fb6f08)) and has supported analyses on threats to the ecosystem services of US trees ([Cavender-Bares et al., 2022](https://doi.org/10.1371/journal.pstr.0000010)). If we search for all of the US tree species published recently as a standardized checklist ([Carrero et al. 2022](https://doi.org/10.1002/ppp3.10305)), we find [4,318,542 occurrences on GBIF from 551 datasets](https://doi.org/10.15468/dl.zkxws9)!
-
-No matter how you are spending this Arbor Day whether it’s planting a tree, walking around the forest, or just appreciating the role trees play in our neighborhoods, we hope you have tree filled day!
-
-Feeling inspired to plant a tree?  Take a look at the [USGS 'Plant a Tree' guide](https://www.usgs.gov/educational-resources/plant-tree).
+#### What?
+#### Why?
+#### How?
 
 #### Citations
 
-- Beech, E., Rivers, M., Oldfield, S., & Smith, P. P. (2017). GlobalTreeSearch:The first complete global database of tree species and country distri-butions.Journal of Sustainable Forestry,36(5), 454–489. [https://doi.org/10.1080/10549811.2017.1310049](https://doi.org/10.1080/10549811.2017.1310049)
-- Ehrenberg, Rachel (30 March 2018). "What makes a tree a tree?". Knowable Magazine. [doi:10.1146/knowable-033018-032602](https://doi.org/10.1146/knowable-033018-032602)
-- Limón, Ada. (27 June 2022). "Shelter: A Love Letter to Trees." Everand Originals. [https://www.everand.com/audiobook/579371936/Shelter-A-Love-Letter-to-Trees](https://www.everand.com/audiobook/579371936/Shelter-A-Love-Letter-to-Trees)
-- Cavender-Bares, Jeannine M., et al. "The hidden value of trees: Quantifying the ecosystem services of tree lineages and their major threats across the contiguous US." PLOS Sustainability and Transformation 1.4 (2022): e0000010. [https://doi.org/10.1371/journal.pstr.0000010](https://doi.org/10.1371/journal.pstr.0000010)
-- Carrero, Christina, et al. "Data sharing for conservation: A standardized checklist of US native tree species and threat assessments to prioritize and coordinate action." Plants, People, Planet 5.4 (2023): 600-616. [https://doi.org/10.1002/ppp3.10305](https://doi.org/10.1002/ppp3.10305)
-- GBIF.org (16 April 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.zkxws9
