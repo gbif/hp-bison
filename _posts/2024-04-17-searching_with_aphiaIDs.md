@@ -1,6 +1,6 @@
 ---
 title: "Linking GBIF, OBIS, and FIshBase with AphiaIDs" 
-date: 2024-04-17 00:00:01 -0500 
+date: 2024-04-15 00:00:01 -0500 
 categories: ["Data Tips"] 
 background: "https://inaturalist-open-data.s3.amazonaws.com/photos/106810626/large.jpg"
 imageLicense: California Halibut (_Paralichthys californicus_) Sitka, AK, USA. by mikecarr via iNaturalist, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
