@@ -3,7 +3,7 @@ title: "Arbor Day"
 date: 2024-04-16 00:00:01 -0500 
 categories: ["Celebration"] 
 background: "https://inaturalist-open-data.s3.amazonaws.com/photos/58356780/large.jpg"
-imageLicense: Southern Live Oak Trees (_Quercus virginiana_) Alachua County, FL, USA. by Kent McFarland, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+imageLicense: Southern Live Oak (_Quercus virginiana_) Alachua County, FL, USA. by Kent McFarland, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)Trees
 preTitle: April 26, 2024
 ---
 
@@ -28,4 +28,4 @@ Feeling inspired to plant a tree?  Take a look at the [USGS 'Plant a Tree' guide
 - Limón, Ada. (27 June 2022). "Shelter: A Love Letter to Trees." Everand Originals. [https://www.everand.com/audiobook/579371936/Shelter-A-Love-Letter-to-Trees](https://www.everand.com/audiobook/579371936/Shelter-A-Love-Letter-to-Trees)
 - Cavender-Bares, Jeannine M., et al. "The hidden value of trees: Quantifying the ecosystem services of tree lineages and their major threats across the contiguous US." PLOS Sustainability and Transformation 1.4 (2022): e0000010. [https://doi.org/10.1371/journal.pstr.0000010](https://doi.org/10.1371/journal.pstr.0000010)
 - Carrero, Christina, et al. "Data sharing for conservation: A standardized checklist of US native tree species and threat assessments to prioritize and coordinate action." Plants, People, Planet 5.4 (2023): 600-616. [https://doi.org/10.1002/ppp3.10305](https://doi.org/10.1002/ppp3.10305)
-- GBIF.org (16 April 2024) GBIF Occurrence Download [https://doi.org/10.15468/dl.zkxws9](https://doi.org/10.15468/dl.zkxws9)
+- GBIF.org (16 April 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.zkxws9
