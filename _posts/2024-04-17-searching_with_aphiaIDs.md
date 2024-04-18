@@ -1,5 +1,5 @@
 ---
-title: "Linking GBIF, OBIS, and FIshBase with AphiaIDs" 
+title: "Linking GBIF, OBIS, and FishBase with AphiaIDs" 
 date: 2024-04-15 00:00:01 -0500 
 categories: ["Data Tips"] 
 background: "https://inaturalist-open-data.s3.amazonaws.com/photos/106810626/large.jpg"
