@@ -3055,7 +3055,7 @@ display: none;
 <section id="what" class="level2">
 <h2 class="anchored" data-anchor-id="what">What?</h2>
 <p>I recently attended a meeting to discuss Species Distribution Models, or SDMs. The attendees emphasized the importance of <a href="https://www.gbif.org/">GBIF</a>, <a href="https://obis.org/">OBIS</a>, and <a href="https://fishbase.mnhn.fr/search.php">FishBase</a> for informing SDMs. One of the challenges that was discussed was how to query taxa consistently and efficiently across these databases.</p>
-<p>Here I demonstrate how to use <a href="https://www.marinespecies.org/about.php#what_is_aphia">AphiaIDs</a>, the identifier used by the <a href="https://www.marinespecies.org/">World Registry of Marine Species (WoRMS)</a>, to query and link the data from OBIS, GBIF, and FishBase.</p>
+<p>Here I demonstrate how to use <a href="https://www.marinespecies.org/about.php#what_is_aphia">AphiaIDs</a>, the identifier used by the <a href="https://www.marinespecies.org/">World Registry of Marine Species (WoRMS)</a>, to query and link the data from OBIS, GBIF, and FishBase. All of the code below is written in <a href="https://www.r-project.org/">R</a>.</p>
 <p><strong>The basic idea:</strong></p>
 <ol type="1">
 <li>Query WoRMS to identify your AphiaID(s).</li>
@@ -3139,8 +3139,8 @@ display: none;
 <span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>GBIF_backboneID <span class="ot">&lt;-</span> response<span class="sc">$</span>results[[<span class="dv">1</span>]]<span class="sc">$</span>nubKey</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="step-4.-query-obis.-gbif-and-fishbase-for-your-taxa-of-interest." class="level5">
-<h5 class="anchored" data-anchor-id="step-4.-query-obis.-gbif-and-fishbase-for-your-taxa-of-interest.">Step 4. Query OBIS. GBIF, and FishBase for your taxa of interest.</h5>
+<section id="step-4.-query-obis-gbif-and-fishbase-for-your-taxa-of-interest." class="level5">
+<h5 class="anchored" data-anchor-id="step-4.-query-obis-gbif-and-fishbase-for-your-taxa-of-interest.">Step 4. Query OBIS, GBIF, and FishBase for your taxa of interest.</h5>
 <section id="obis" class="level6">
 <h6 class="anchored" data-anchor-id="obis">OBIS</h6>
 <p>Let’s start with OBIS, since it aligns to WoRMS and therefore uses AphiaIDs.</p>
