@@ -24,7 +24,7 @@ navbar:
 composition:
   - type: heroImage # the block type
   - data: home.stats
-    type: stat  
+    type: stats 
   - type: latestPosts
     description: Recent Posts
     inlineData: "nonsense"
