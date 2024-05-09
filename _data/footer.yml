@@ -16,7 +16,7 @@ columns:
 
   - name: Funding
     description: | # Can be Markdown
-      ![](/assets/images/graphics/NSF_Official_logo_250px.png).
+      ![](/assets/images/graphics/NSF_Official_logo_210px.png).
 
   - name: Management
     description: | #Can be Markdown
