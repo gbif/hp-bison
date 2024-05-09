@@ -8,7 +8,10 @@ imageLicense: |
 height: 60vh
 ---
 
-GBIF-US is the US node for the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org). GBIF-US is responsible for coordinating GBIF-related activities within the US, and is guided by the [delegation](/community/#us-delegation) and [community](/community). Funding for GBIF-US comes from the National Science Foundation ![](/assets/images/graphics/NSF_Official_logo_200px.png). This website, [gbif.us](https://www.gbif.us/), serves as a national data portal serves as an access point to U.S. species occurrence data contributed to GBIF.  
+GBIF-US is the US node for the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org). GBIF-US is responsible for coordinating GBIF-related activities within the US, and is guided by the [delegation](/community/#us-delegation) and [community](/community). Funding for GBIF-US comes from the National Science Foundation 
+![](/assets/images/graphics/NSF_Official_logo_200px.png). 
+
+This website, [gbif.us](https://www.gbif.us/), serves as a national data portal serves as an access point to U.S. species occurrence data contributed to GBIF.  
 
 ### What role does USGS play?
 ![](/assets/images/graphics/USGS_ID_white-on-green_resized.png)
