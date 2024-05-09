@@ -2,7 +2,7 @@
 title: "Data Publication: Statewide Alaska Tern Occurrences" 
 date: 2024-05-09 00:00:01 -0500 
 categories: ["Data Release"] 
-background: "https://inaturalist-open-data.s3.amazonaws.com/photos/29949402/large.jpg"
+background: "https://inaturalist-open-data.s3.amazonaws.com/photos/46768716/large.jpg"
 imageLicense: Aleutian Tern (_Onychoprion aleuticus_) by Sandy Keller via [iNaturalist](https://www.inaturalist.org/photos/46768716), [CCBY](https://creativecommons.org/licenses/by/4.0/)
 preTitle: May 9, 2024
 ---
