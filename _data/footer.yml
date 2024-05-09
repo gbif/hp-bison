@@ -14,14 +14,6 @@ columns:
 #    description: | # Can be Markdown
 #      This project is open source. See `_data/footer.yml` to customize the footer.
 
-  - name: Funding
-    description: | # Can be Markdown
-      GBIF-US is funded by ![](/assets/images/graphics/NSF_Official_logo_200px.png).
-
-  - name: Management
-    description: | #Can be Markdown
-      GBIF-US is managed by ![](/assets/images/graphics/USGS_ID_white-on-green_resized.png)
-
   - name: Contact
     description: | # Can be Markdown
       
