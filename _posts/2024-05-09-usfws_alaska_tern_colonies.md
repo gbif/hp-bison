@@ -13,4 +13,4 @@ We're excited to announce the publication of the dataset, "[Statewide Alaska Ter
 
 #### Citations
 
-- Moore E, McDonald T, Schaefer A, Kaler R, Oehlers S, Renner H, Corcoran R, Boldenow M, Goldstein M, Lyons D, Renner M, Cooper E (2024). Statewide Alaska Tern Occurrences. Version 1.0. USFWS-AK. Occurrence dataset. https://ipt-obis.gbif.us/resource?r=usfws_alaska_tern_colonies&v=1.0 https://doi.org/10.15468/7mzh97
+- Moore E, McDonald T, Schaefer A, Kaler R, Oehlers S, Renner H, Corcoran R, Boldenow M, Goldstein M, Lyons D, Renner M, Cooper E (2024). Statewide Alaska Tern Occurrences. Version 1.0. USFWS-AK. Occurrence dataset. https://ipt-obis.gbif.us/resource?r=usfws_alaska_tern_colonies&v=1.0
