@@ -13,11 +13,11 @@ composition:
     klass: exampleDashboard
     title: "Metrics"
     description: |
-      Title and description is optional. On this dashboard we show metrics for the filter `datasetkey: 0b1735ff-6a66-454b-8686-cae1cbc732a2`, the 'Checklist of Vermont Species' dataset.
+      Title and description is optional. On this dashboard we show metrics for the filter `datasetKey: 0b1735ff-6a66-454b-8686-cae1cbc732a2`, the 'Checklist of Vermont Species' dataset.
     config: 
       predicate:
         type: equals
-        key: datasetkey
+        key: datasetKey
         value: 0b1735ff-6a66-454b-8686-cae1cbc732a2
       charts: [occurrenceSummary, dataQuality, occurrenceIssue, iucnCounts, iucn, year, datasetKey, taxa] 
       # currently available types as of march 2024: [iucn, license, basisOfRecord, year, synonyms, iucnCounts, country, continent, dwcaExtension, eventId, gadmGid, mediaType, networkKey, publisherKey, publishingCountryCode, protocol, sampleSizeUnit, samplingProtocol, typeStatus, waterBody, collectionCode, institutionCode, stateProvince, identifiedBy, recordedBy, establishmentMeans, month, preparations, datasetKey, taxa, occurrenceIssue, dataQuality, occurrenceSummary, collectionKey, institutionKey, catalogNumber]
