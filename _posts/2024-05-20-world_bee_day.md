@@ -1,6 +1,6 @@
 ---
-title: "Happy World Bee Day!" 
-date: 2024-04-20 01:00:00 -0500 
+title: "World Bee Day!
+date: 2024-05-20 01:00:00 -0500 
 categories: ["Celebration"] 
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/383554426/large.jpeg
 imageLicense: Eastern Carpenter Bee (_Xylocopa virginica_) Grovetown, GA, USA. by
@@ -24,12 +24,12 @@ GBIF-US is helping us understand bee distribution and habitat use by sharing dat
 
 ### Citations
 
-> Ascher, J.S. & Pickering, J. (2020). Discover Life bee species guide and world checklist (Hymenoptera: Apoidea: Anthophila). DiscoverLife. Available at: http://www.discoverlife.org/mp/20q?guide=Apoidea_species 
+> Ascher, J.S. & Pickering, J. (2020). Discover Life bee species guide and world checklist (Hymenoptera: Apoidea: Anthophila). DiscoverLife. Available at: [http://www.discoverlife.org/mp/20q?guide=Apoidea_species](http://www.discoverlife.org/mp/20q?guide=Apoidea_species)
 
-> Droege S, Maffei C (2023). Insect Species Occurrence Data from Multiple Projects Worldwide with Focus on Bees and Wasps in North America. Version 1.10. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/6autvb accessed via GBIF.org on 2024-05-21.
+> Droege S, Maffei C (2023). Insect Species Occurrence Data from Multiple Projects Worldwide with Focus on Bees and Wasps in North America. Version 1.10. United States Geological Survey. Occurrence dataset [https://doi.org/10.15468/6autvb](https://doi.org/10.15468/6autvb) accessed via GBIF.org on 2024-05-21.
 
-> Potts, S.G., Biesmeijer, J.C., Kremen, C., Neumann, P., Schweiger, O. & Kunin, W.E. (2010) Global pollinator declines: trends, impacts and drivers. Trends in Ecology & Evolution, 25, 345–353. 
+> Potts, S.G., Biesmeijer, J.C., Kremen, C., Neumann, P., Schweiger, O. & Kunin, W.E. (2010) Global pollinator declines: trends, impacts and drivers. Trends in Ecology & Evolution, 25, 345–353. [https://doi.org/10.1016/j.tree.2010.01.007](https://doi.org/10.1016/j.tree.2010.01.007)
 
-> Potts, S.G., Imperatriz-Fonseca, V., Ngo, H.T., Aizen, M.A., Biesmeijer, J.C., Breeze, T.D. et al. (2016) Safeguarding pollinators and their values to human well-being. Nature, 540, 220–229.
+> Potts, S.G., Imperatriz-Fonseca, V., Ngo, H.T., Aizen, M.A., Biesmeijer, J.C., Breeze, T.D. et al. (2016) Safeguarding pollinators and their values to human well-being. Nature, 540, 220–229. [https://doi.org/10.1038/nature20588](https://doi.org/10.1038/nature20588)
 
-> Strange J (2019). Patterns of widespread decline in North American bumble bees. USDA-ARS Pollinating Insect-Biology, Management, Systematics Research. Occurrence dataset https://doi.org/10.15468/kjpwz1 accessed via GBIF.org on 2024-05-21.
+> Strange J (2019). Patterns of widespread decline in North American bumble bees. USDA-ARS Pollinating Insect-Biology, Management, Systematics Research. Occurrence dataset [https://doi.org/10.15468/kjpwz1](https://doi.org/10.15468/kjpwz1) accessed via GBIF.org on 2024-05-21.
