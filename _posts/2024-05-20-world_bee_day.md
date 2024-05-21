@@ -1,5 +1,5 @@
 ---
-title: "World Bee Day!
+title: "World Bee Day!"
 date: 2024-05-20 01:00:00 -0500 
 categories: ["Celebration"] 
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/383554426/large.jpeg
