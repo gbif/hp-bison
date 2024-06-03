@@ -20,4 +20,4 @@ Those interested in learning more about the strategy and action plan, what it me
 **13 June 2024** @ 21:00 UTC (5pm EST / 11am HAST)
 [Register for webinar #2](https://us02web.zoom.us/webinar/register/WN_JAyHic4xS1yx-TKYHsfVMg)
 
-You can read the detailed announcment on either [GBIF](https://www.gbif.org/news/7w0xoodpNZRwnt1SjWfML0/obis-and-gbif-endorse-joint-strategy-and-action-plan-for-marine-biodiversity-data), or [OBIS](https://obis.org/2024/05/28/obis-gbif-partnership-ren/).
+You can read the detailed announcement on either [GBIF](https://www.gbif.org/news/7w0xoodpNZRwnt1SjWfML0/obis-and-gbif-endorse-joint-strategy-and-action-plan-for-marine-biodiversity-data), or [OBIS](https://obis.org/2024/05/28/obis-gbif-partnership-ren/).
