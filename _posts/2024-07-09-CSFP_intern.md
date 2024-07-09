@@ -10,7 +10,7 @@ We're excited to welcome our new USGS 2024 Cooperative Summer Fellow: Kylie Holl
 
 #### Who is Kylie?
 
-Kylie is a recent University of Florida graduate, with bachelors' degrees in Marine Science and Environmental Science. During her time at the university, her research focused on optimal conditions for oyster larval settlement, as well nutrient pollution impacts on Spartina grass-mussel mutualisms in salt marshes. As she enters her post-grad career, Kylie hopes to get involved with research focusing on anthropogenic impacts on estuarine community ecology and conservation of these communities.
+Kylie is a recent University of Florida graduate, with bachelors' degrees in Marine Science and Environmental Science. During her time at the university, her research focused on optimal conditions for oyster larval settlement, as well nutrient pollution impacts on _Spartina_ grass-mussel mutualisms in salt marshes. As she enters her post-grad career, Kylie hopes to get involved with research focusing on anthropogenic impacts on estuarine community ecology and conservation of these communities.
 
 #### What will Kylie be doing?
 
