@@ -6,7 +6,7 @@ background: assets/images/people/KylieHollis.jpeg
 preTitle: July 9, 2024
 ---
 
-We're excited to welcome our new USGS 2024 Cooperative Summer Fellow: Kylie Hollis!  Kylie is joining us for the next three months through the (Cooperative Summer Fellowship Program)[https://www.usgs.gov/youth-and-education-in-science/ecology-summer-fellows-program]. Kylie is one of (61 fellows selected)[https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/CSFPFlyer2024.pdf] to work with the U.S. Geological Survey this summer through the CSFP.
+We're excited to welcome our new USGS 2024 Cooperative Summer Fellow: Kylie Hollis!  Kylie is joining us for the next three months through the [Cooperative Summer Fellowship Program](https://www.usgs.gov/youth-and-education-in-science/ecology-summer-fellows-program). Kylie is one of [61 fellows selected](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/CSFPFlyer2024.pdf) to work with the U.S. Geological Survey this summer through the CSFP.
 
 #### Who is Kylie?
 
