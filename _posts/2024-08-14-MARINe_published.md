@@ -7,7 +7,7 @@ imageLicense: Researchers conducting MARINe surveys. Provided by Marine Lebrec
 preTitle: Aug 14, 2024
 ---
 
-We are excited to share that the newest dataset from “MARINe” ([Multi-Agency Rocky Intertidal Network](https://marine.ucsc.edu/overview/)) has been published! This new dataset, titled, "MARINe/PISCO: Intertidal: MARINe Coastal Biodiversity Surveys: Swath Surveys Summarized", includes over 11,000 occurrences of Echinoderms, Molluscs, and Arthoropods along the Pacific Coast of North America.  
+We are excited to share that the newest dataset from “MARINe” ([Multi-Agency Rocky Intertidal Network](https://marine.ucsc.edu/overview/)) has been published! This new dataset, titled, "MARINe/PISCO: Intertidal: MARINe Coastal Biodiversity Surveys: Swath Surveys Summarized", includes over 11,000 occurrences of Echinoderms, Molluscs, and Arthropods along the Pacific Coast of North America.  
 
 ##### Special Sauce
 This particular dataset is extra tasty because it is partly a product of the "[Marine Biodiversity Data Mobilization Workshop 2024](https://obis.org/2024/06/28/biodiv-mob-workshop-2024/)", an annual workshop to facilitate mobilization of data to OBIS and GBIF. GBIF-US and OBIS-USA have co-organized and co-lead this workshop for the past three years, and we're always stoked to see a dataset cross the finish line!
@@ -20,7 +20,7 @@ The four MARINe datasets have contributed to almost 23,000 download events from 
 
 The OBIS- and GBIF-mediated datasets can be accessed here:
 
-- MARINe Long-Term Monitoring Surveys: Sea Stars and Katharina: [GBIF](https://www.gbif.org/dataset/9608a10c-092d-4885-ac17-fa07d4c7cd8d), [OBIS](https://obis.org/dataset/438b8f02-3421-4b2c-a5b2-5934ab76f47b)
+- MARINe Long-Term Monitoring Surveys: Sea Stars and Katharina: [OBIS](https://obis.org/dataset/438b8f02-3421-4b2c-a5b2-5934ab76f47b), [GBIF](https://www.gbif.org/dataset/9608a10c-092d-4885-ac17-fa07d4c7cd8d)
 
 - MARINe Long-Term Monitoring Surveys: Photo Plots and Transects Summarized: [OBIS](https://obis.org/dataset/fbf4cb59-cef3-43be-b0ab-0dbab5f51740), [GBIF](https://www.gbif.org/dataset/e24dcb47-89f9-4481-a8ac-c38ef26b2865)
 
