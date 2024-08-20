@@ -2,7 +2,7 @@
 title: "Announcing Kelsey Huelsman as new staff" 
 date: 2024-08-15 00:00:01 -0500 
 categories: ["Announcements"] 
-background: "assets/images/people/KRichards_circle_headshot.jpg"
+background: "assets/images/people/KelseyHuelsman.jpg"
 imageLicense: Provided by Kelsey Huelsman
 preTitle: Aug 15, 2024
 ---
