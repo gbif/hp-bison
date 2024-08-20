@@ -16,7 +16,7 @@ This particular dataset is extra tasty because it is partly a product of the "[M
 
 “MARINe” ([Multi-Agency Rocky Intertidal Network](https://marine.ucsc.edu/overview/)) has now published four rocky intertidal long-term monitoring and biodiversity surveys to OBIS and GBIF! It is the largest and longest-running effort of its kind, spanning the Pacific Coast of North America, with some sites having been sampled for as much as 30 years. These surveys shed light on intertidal impacts caused by disturbances (e.g., El Nino events, oil spills) and detect shifts in community composition due to disease, species introductions, and climate change.
 
-The four MARINe datasets have contributed to almost 23,000 download events from OBIS, about 17,000 download events from GBIF, and been cited by [31 peer-reviewed publications](https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=fdcdc447-2032-4edf-9519-0ec89ae1b9c5&gbifDatasetKey=e24dcb47-89f9-4481-a8ac-c38ef26b2865&gbifDatasetKey=58ffefab-20aa-4cec-b0c0-dd7330ed7280&gbifDatasetKey=9608a10c-092d-4885-ac17-fa07d4c7cd8d&peerReview=true) since first being published. 
+The four MARINe datasets have contributed to almost 23,000 download events from OBIS, about 17,000 download events from GBIF, and been cited by [31 peer-reviewed publications](https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=fdcdc447-2032-4edf-9519-0ec89ae1b9c5&gbifDatasetKey=e24dcb47-89f9-4481-a8ac-c38ef26b2865&gbifDatasetKey=58ffefab-20aa-4cec-b0c0-dd7330ed7280&gbifDatasetKey=9608a10c-092d-4885-ac17-fa07d4c7cd8d&peerReview=true)sup>1</sup> since first being published. 
 
 The OBIS- and GBIF-mediated datasets can be accessed here:
 
@@ -28,7 +28,12 @@ The OBIS- and GBIF-mediated datasets can be accessed here:
 
 - MARINe Coastal Biodiversity Surveys: Point Contact Surveys Summarized: [OBIS](https://obis.org/dataset/bb638343-bbc9-464d-88d8-18d9ba29ecdd), [GBIF](https://www.gbif.org/dataset/58ffefab-20aa-4cec-b0c0-dd7330ed7280)
 
+#### Footnotes
 
+1. _Not sure how GBIF citations and literature tracking works?  See these two links to learn more:_
+	- https://www.gbif.org/citation-guidelines
+	- https://www.gbif.org/literature-tracking
+	
 #### Citations
 
 - Multi-Agency Rocky Intertidal Network (MARINe), Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO), Raimondi P (2024). MARINe/PISCO: Intertidal: MARINe Coastal Biodiversity Surveys: Swath Surveys Summarized. Version 1.3. United States Geological Survey. Samplingevent dataset. https://ipt-obis.gbif.us/resource?r=marine_cbs_swath_surveys&v=1.3
