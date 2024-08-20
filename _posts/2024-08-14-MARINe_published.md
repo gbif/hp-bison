@@ -12,6 +12,8 @@ We are excited to share that the newest dataset from “MARINe” ([Multi-Agency
 ##### Special Sauce
 This particular dataset is extra tasty because it is partly a product of the "[Marine Biodiversity Data Mobilization Workshop 2024](https://obis.org/2024/06/28/biodiv-mob-workshop-2024/)", an annual workshop to facilitate mobilization of data to OBIS and GBIF. GBIF-US and OBIS-USA have co-organized and co-lead this workshop for the past three years, and we're always stoked to see a dataset cross the finish line!
 
+But there's more! This data came to fruition through the support of the [Central & Northern California Ocean Observing System (CeNCOOS)](https://www.cencoos.org/), the [U.S. Integrated Ocean Observing System (IOOS)](https://ioos.noaa.gov/), and the [U.S. Marine Biodiversity Observation Network (MBON)](https://marinebon.org/us-mbon/). [How do these orgs relate to the project: https://marine.ucsc.edu/index.html?]
+
 ##### What is MARINe?
 
 “MARINe” ([Multi-Agency Rocky Intertidal Network](https://marine.ucsc.edu/overview/)) has now published four rocky intertidal long-term monitoring and biodiversity surveys to OBIS and GBIF! It is the largest and longest-running effort of its kind, spanning the Pacific Coast of North America, with some sites having been sampled for as much as 30 years. These surveys shed light on intertidal impacts caused by disturbances (e.g., El Nino events, oil spills) and detect shifts in community composition due to disease, species introductions, and climate change.
