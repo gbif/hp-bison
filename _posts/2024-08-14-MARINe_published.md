@@ -10,9 +10,9 @@ preTitle: Aug 14, 2024
 We are excited to share that the newest dataset from “MARINe” ([Multi-Agency Rocky Intertidal Network](https://marine.ucsc.edu/overview/)) has been published! This new dataset, titled, "MARINe/PISCO: Intertidal: MARINe Coastal Biodiversity Surveys: Swath Surveys Summarized", includes over 11,000 occurrences of Echinoderms, Molluscs, and Arthropods along the Pacific Coast of North America.  
 
 ##### Special Sauce
-This particular dataset is extra tasty because it is partly a product of the "[Marine Biodiversity Data Mobilization Workshop 2024](https://obis.org/2024/06/28/biodiv-mob-workshop-2024/)", an annual workshop to facilitate mobilization of data to OBIS and GBIF. GBIF-US and OBIS-USA have co-organized and co-lead this workshop for the past three years, and we're always stoked to see a dataset cross the finish line!
+This particular dataset is extra tasty because it is partly a product of the "[Marine Biodiversity Data Mobilization Workshop 2024](https://obis.org/2024/06/28/biodiv-mob-workshop-2024/)", an annual workshop to facilitate mobilization of data to OBIS and GBIF. GBIF-US and OBIS-USA have co-organized and co-led this workshop for the past three years, and we're always stoked to see a dataset cross the finish line!
 
-But there's more! This data came to fruition through the support of the [Central & Northern California Ocean Observing System (CeNCOOS)](https://www.cencoos.org/), the [U.S. Integrated Ocean Observing System (IOOS)](https://ioos.noaa.gov/), and the [U.S. Marine Biodiversity Observation Network (MBON)](https://marinebon.org/us-mbon/). [How do these orgs relate to the project: https://marine.ucsc.edu/index.html?]
+But there's more! This data came to fruition through the support of the [Central & Northern California Ocean Observing System (CeNCOOS)](https://www.cencoos.org/), the [U.S. Integrated Ocean Observing System (IOOS)](https://ioos.noaa.gov/), and the [U.S. Marine Biodiversity Observation Network (MBON)](https://marinebon.org/us-mbon/).
 
 ##### What is MARINe?
 
