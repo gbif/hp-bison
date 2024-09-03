@@ -36,12 +36,12 @@ height: 50vh
 
 - [Katharina Dittmar](https://www.gbif.org/contact-us/directory?personId=4369), Head of delegation, National Science Foundation
 - [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Delegate, Node manager, U.S. Geological Survey
-- [Abby Benson](https://www.gbif.org/contact-us/directory?personId=4029), Delegate, U.S. Geological Survey, National Nature Assessment
 - [Thomas Orrell](https://www.gbif.org/contact-us/directory?personId=138), Delegate, Smithsonian Institution
-- [Martin Kalfatovic](https://www.gbif.org/contact-us/directory?personId=3706), Delegate, Smithsonian Institution Libraries and Archives
+- [Martin Kalfatovic](https://www.gbif.org/contact-us/directory?personId=3706), Delegate, International Image Interoperability Framework
 - [Sharon Grant](https://www.gbif.org/contact-us/directory?personId=4318), Delegate, Field Museum of Natural History
-- [Mike Frame](https://www.gbif.org/contact-us/directory?personId=78), Delegate, U.S. Geological Survey
+- [Mark Wiltermuth](), Delegate, U.S. Geological Survey
 - [David Jennings](https://www.gbif.org/contact-us/directory?personId=3940), Delegate, iDigBio
+- [JJ Dearborn](https://www.gbif.org/contact-us/directory?personId=4379), Delegate, Biodiversity Heritage Library
 
 <a name="nodes"></a>Participant Nodes
 ------------
@@ -94,6 +94,7 @@ The [United States](https://www.gbif.org/publisher/search?country=US) has over 3
 For more information contact these installations directly
 - [GBIF-US](https://bison.usgs.gov/ipt/)
 - [VertNet](http://ipt.vertnet.org:8080/ipt/)
+- [Symbiota Support Hub](https://symbiota.org/)
 
 ### Other installations
 - American Museum of Natural History
