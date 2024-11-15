@@ -1,5 +1,5 @@
 ---
-title: "CAREing on Thanksgiving" 
+title: "CARE-ing on Thanksgiving" 
 date: 2024-11-14 00:00:01 -0500 
 categories: ["Data Release"] 
 background: "https://inaturalist-open-data.s3.amazonaws.com/photos/397193464/large.jpg"
