@@ -10,6 +10,8 @@ preTitle: Nov 15, 2024
 
 _Note: Typically, we use these blog posts to highlight the biodiversity evidence served through GBIF. For example, the wild turkey, Meleagris gallopavo, has over [two million occurrences on GBIF](https://www.gbif.org/species/9606290), and these records have helped us understand it's natural history and biogeography [(Corona-M, 2020)](https://doi.org/10.1016/j.quaint.2020.03.053). However, here we present a different aspect of biodiversity data that is equally important._
 
+#### What is Thanksgiving?
+
 On November 28th, the United States will celebrate Thanksgiving. Last year, President Biden reminded us why Americans celebrate Thanksgiving. He said, 
 
 > "Throughout our country’s history, this season of reflection and giving thanks comes in good times and tough ones.  Before there was a United States of America, the Pilgrims celebrated Thanksgiving in honor of their first successful harvest and the support and generosity of the Wampanoag people who made it possible.  Amid the fierce battle for our Nation’s independence, General George Washington and his troops celebrated Thanksgiving on the way to Valley Forge.  During the Civil War, President Abraham Lincoln proclaimed Thanksgiving a national holiday to honor the blessings of our country, even as he fought to preserve our Union. [(The White House, 2023)](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/22/a-proclamation-on-thanksgiving-day-2023/)"
