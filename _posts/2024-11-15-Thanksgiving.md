@@ -2,9 +2,9 @@
 title: "CARE-ing on Thanksgiving" 
 date: 2024-11-14 00:00:01 -0500 
 categories: ["Holiday"] 
-background: "https://inaturalist-open-data.s3.amazonaws.com/photos/397193464/large.jpg"
-imageLicense: Wild Turkey (_Meleagris gallopavo_) Edgewood Park & Natural Preserve, Redwood City, CA, USA. by
-  Chuck Wilson [inaturalist.org](https://www.inaturalist.org/photos/397193464), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+background: "https://inaturalist-open-data.s3.amazonaws.com/photos/368275954/large.jpeg"
+imageLicense: Wild Turkey (_Meleagris gallopavo_) Frederick County, MD, USA. by
+  Andy Wilson [inaturalist.org](https://www.inaturalist.org/photos/368275954), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 preTitle: Nov 15, 2024
 ---
 
@@ -12,7 +12,7 @@ On November 28th, the United States will celebrate Thanksgiving. Last year, Pres
 
 > "Throughout our country’s history, this season of reflection and giving thanks comes in good times and tough ones.  Before there was a United States of America, the Pilgrims celebrated Thanksgiving in honor of their first successful harvest and the support and generosity of the Wampanoag people who made it possible.  Amid the fierce battle for our Nation’s independence, General George Washington and his troops celebrated Thanksgiving on the way to Valley Forge.  During the Civil War, President Abraham Lincoln proclaimed Thanksgiving a national holiday to honor the blessings of our country, even as he fought to preserve our Union. [(The White House, 2023)](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/22/a-proclamation-on-thanksgiving-day-2023/)"
 
-Typically, we use these blog posts to highlight the biodiversity evidence served through GBIF. For example, the common turkey, _Meleagris gallopavo_, has over [two million occurrences on GBIF](https://www.gbif.org/species/9606290), and these records have helped us understand it's natural history and biogeography [(Corona-M, 2020)](https://doi.org/10.1016/j.quaint.2020.03.053).  
+Typically, we use these blog posts to highlight the biodiversity evidence served through GBIF. For example, the wild turkey, _Meleagris gallopavo_, has over [two million occurrences on GBIF](https://www.gbif.org/species/9606290), and these records have helped us understand it's natural history and biogeography [(Corona-M, 2020)](https://doi.org/10.1016/j.quaint.2020.03.053).  
 
 However, for many, this is a holiday of complicated feelings stemming from the complicated history of the holiday [(Smith, 2003)](https://doi.org/10.1525/gfc.2003.3.4.79), and the treatment of Indigenous people by the United States [(Bior, 2021)](https://www.npr.org/2021/11/25/1059262045/the-mashpee-wampanoag-want-you-to-know-the-full-history-behind-thanksgiving). With that in mind, we would like to take this opportunity to highlight the CARE principles for Indigenous Data Governance [(Global Indigenous Data Alliance, 2023)](https://www.gida-global.org/care). 
 
