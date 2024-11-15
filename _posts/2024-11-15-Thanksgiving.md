@@ -8,7 +8,7 @@ imageLicense: Wild Turkey (_Meleagris gallopavo_) Frederick County, MD, USA. by
 preTitle: Nov 15, 2024
 ---
 
-_Note: Typically, we use these blog posts to highlight the biodiversity evidence served through GBIF. For example, the wild turkey, Meleagris gallopavo, has over [two million occurrences on GBIF](https://www.gbif.org/species/9606290), and these records have helped us understand its natural history and biogeography [(Corona-M, 2020)](https://doi.org/10.1016/j.quaint.2020.03.053). Instead, we present a different aspect of biodiversity data that is equally important._
+_Note: Typically, we use these blog posts to highlight the biodiversity evidence served through GBIF. For example, the wild turkey, Meleagris gallopavo, has over [two million occurrences on GBIF](https://www.gbif.org/species/9606290), and these records have helped us understand its natural history and biogeography [(Corona-M, 2020)](https://doi.org/10.1016/j.quaint.2020.03.053). Below, we present a different aspect of biodiversity data that is equally important._
 
 #### What is Thanksgiving?
 
