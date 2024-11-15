@@ -1,7 +1,7 @@
 ---
 title: "CARE-ing on Thanksgiving" 
 date: 2024-11-14 00:00:01 -0500 
-categories: ["Celebration"] 
+categories: ["Holiday"] 
 background: "https://inaturalist-open-data.s3.amazonaws.com/photos/397193464/large.jpg"
 imageLicense: Wild Turkey (_Meleagris gallopavo_) Edgewood Park & Natural Preserve, Redwood City, CA, USA. by
   Chuck Wilson [inaturalist.org](https://www.inaturalist.org/photos/397193464), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
