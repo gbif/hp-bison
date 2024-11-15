@@ -27,12 +27,12 @@ Like much of the data management community, GBIF-US sees the value of the CARE p
 	
 #### References
 
-- The White House, 2023. A Proclamation on Thanksgiving Day, 2023 [WWW Document]. The White House. URL https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/22/a-proclamation-on-thanksgiving-day-2023/ (accessed 11.15.24).
-- Corona-M, E., Cruz Silva, J.A., 2020. Modelling the prehistoric geographical distribution of the genus Meleagris. Quaternary International, The Archaeology of Human-Bird Interactions: Essays in Honour of Dale Serjeantson Part I 543, 8–15. https://doi.org/10.1016/j.quaint.2020.03.053
-- Smith, A.F., 2003. The First Thanksgiving. Gastronomica 3, 79–85. https://doi.org/10.1525/gfc.2003.3.4.79
-- Bior, A., 2021. The Mashpee Wampanoag want you to know the full history behind Thanksgiving. NPR. URL https://www.npr.org/2021/11/25/1059262045/the-mashpee-wampanoag-want-you-to-know-the-full-history-behind-thanksgiving (accessed 11.15.24)
-- CARE Principles [WWW Document], 2023. Global Indigenous Data Alliance. URL https://www.gida-global.org/care (accessed 11.15.24).
-Jennings, L., Anderson, T., Martinez, A., Sterling, R., Chavez, D.D., Garba, I., Hudson, M., Garrison, N.A., Carroll, S.R., 2023. Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research. Nat Ecol Evol. https://doi.org/10.1038/s41559-023-02161-2
-- O'Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L., Downs, R., Antognoli, E., ten Brink, T., Halmai, N. and David-Chavez, D., 2024. Earth Science Data Repositories: Implementing the CARE Principles. https://doi.org/10.5334/dsj-2024-037
+- The White House, 2023. A Proclamation on Thanksgiving Day, 2023 [WWW Document]. The White House. URL <https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/22/a-proclamation-on-thanksgiving-day-2023/> (accessed 11.15.24).
+- Corona-M, E., Cruz Silva, J.A., 2020. Modelling the prehistoric geographical distribution of the genus Meleagris. Quaternary International, The Archaeology of Human-Bird Interactions: Essays in Honour of Dale Serjeantson Part I 543, 8–15. <https://doi.org/10.1016/j.quaint.2020.03.053>
+- Smith, A.F., 2003. The First Thanksgiving. Gastronomica 3, 79–85. <https://doi.org/10.1525/gfc.2003.3.4.79>
+- Bior, A., 2021. The Mashpee Wampanoag want you to know the full history behind Thanksgiving. NPR. URL <https://www.npr.org/2021/11/25/1059262045/>the-mashpee-wampanoag-want-you-to-know-the-full-history-behind-thanksgiving (accessed 11.15.24)
+- CARE Principles [WWW Document], 2023. Global Indigenous Data Alliance. URL <https://www.gida-global.org/care> (accessed 11.15.24).
+Jennings, L., Anderson, T., Martinez, A., Sterling, R., Chavez, D.D., Garba, I., Hudson, M., Garrison, N.A., Carroll, S.R., 2023. Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research. Nat Ecol Evol. <https://doi.org/10.1038/s41559-023-02161-2>
+- O'Brien, M., Duerr, R., Taitingfong, R., Martinez, A., Vera, L., Jennings, L., Downs, R., Antognoli, E., ten Brink, T., Halmai, N. and David-Chavez, D., 2024. Earth Science Data Repositories: Implementing the CARE Principles. <https://doi.org/10.5334/dsj-2024-037>
 
 
