@@ -4,9 +4,9 @@ layout: home
 # preTitle: GBIF.US
 title: Species observations for the United States and Territories
 # description: Species occurrences for the United States and U.S. Territories.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/216712267/large.jpeg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/400417526/large.jpeg
 imageLicense: |
-  Bristlecone Pine (_Pinus longaeva_), Mono, California, United States. Photo by marcus_t via [inaturalist.org](https://www.inaturalist.org/photos/216712267) [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+  Wild Turkey (_Meleagris gallopavo_), Somerset County, PA, USA. Photo by Andy Wilson [inaturalist.org](https://www.inaturalist.org/photos/400417526) [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 height: 65vh
 parallax: true
 cta:
