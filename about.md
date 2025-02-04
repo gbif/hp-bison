@@ -8,9 +8,9 @@ imageLicense: |
 height: 60vh
 ---
 
-This website, [gbif.us](https://www.gbif.us/), serves as a national data portal and access point to U.S. species occurrence data contributed to GBIF.  It is co-managed by the scientific community of the United States via https://github.com/gbif/hp-bison. 
+This website, [gbif.us](https://www.gbif.us/), serves as a national data portal and access point to U.S. species occurrence data contributed to GBIF.  It is co-managed by the scientific community of the United States via [https://github.com/gbif/hp-bison](https://github.com/gbif/hp-bison). 
 
-Currently co-managers include representatives from USGS, iDigBio, VertNet, Symbiota Support Hub, and the Vermont Atlas of Life. If you would like to get involved, you are welcome to submit issues and pull requests to the GitHub repo. If you are interested in more formal involvement, please pull an issue with that request and we can discuss possibilites there.
+Currently co-managers include representatives from USGS, iDigBio, VertNet, Symbiota Support Hub, and the Vermont Atlas of Life. If you would like to get involved, you are welcome to submit issues and pull requests to the GitHub repo. If you are interested in more formal involvement, please pull an issue with that request and we can discuss possibilities there.
 
 The community also co-manages an [Integrated Publishing Toolkit (IPT) instance](https://ipt.gbif.us/) to faciliate publication of data to GBIF.
 
