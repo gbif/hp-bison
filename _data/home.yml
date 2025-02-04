@@ -44,7 +44,7 @@ dataset:
   description: |      # required
     View images from the deep such as the ones from the NOAA Deep Sea Corals Research and Technology Program dataset.
   # img required
-  background: /assets/images/https___deepseacoraldata.noaa.gov_db-images_918242.jpg
+  background: /assets/images/organisms/https___deepseacoraldata.noaa.gov_db-images_918242.jpg
   imageLicense: "[Acanthogorgia Gray, 1857](https://www.gbif.us/data?entity=2557396581) from NOAA, Deep Sea Coral Research & Technology Program (2017) Deep-sea coral and sponge records from the CAPSTONE:   Exploring Remote Pacific Marine Protected Areas (EX-17-03). (www.deepseacoraldata.noaa.gov)"
   #overlayColor: "#000033"
   href: data?filter=eyJtdXN0Ijp7ImRhdGFzZXRLZXkiOlsiZGY4ZTNmYjgtM2RhNy00MTA0LWE4NjYtNzQ4ZjZkYTIwYTNjIl19fQ%3D%3D&view=GALLERY
@@ -60,7 +60,7 @@ nearYou:
   description: |      # required
     Use the map to explore observations near you and learn more about the area you live in.
   # img required
-  background: /assets/images/bumblebee_wieferi9.jpg
+  background: /assets/images/organisms/bumblebee_wieferi9.jpg
   imageLicense: Photo by Daniel Wieferich
   #overlayColor: "#000033"
   href: /data?view=MAP
@@ -79,7 +79,7 @@ specimens:
     Such as this holotype of *Kyromyrma neffi* Grimaldi & Agosti, 2000
   # img required
   # background: /assets/images/1213706626_amber_ant.jpg
-  background: /assets/images/dalmation_toadflax_zookanthos.jpeg
+  background: /assets/images/organisms/dalmation_toadflax_zookanthos.jpeg
   #overlayColor: "#000033"
   href: /data?filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiUFJFU0VSVkVEX1NQRUNJTUVOIl0sInJlY29yZGVkQnkiOlsibS5lLiBwZWNrIiwibW9ydG9uIGUuIHBlY2siLCJtLiBlLiBwZWNrIiwibS5lLiBwZWNrLiJdfX0%3D&view=GALLERY
   cta:
@@ -95,7 +95,7 @@ fossil:
   title: Fossils
   description: |  # required
      Explore the biology of the past through the wonders of fossil specimens.
-  background: /assets/images/2990961382_fossil.jpg
+  background: /assets/images/organisms/2990961382_fossil.jpg
   imageLicense: "[*Bistahieversor sealeyi* Carr & Williamson, 2010](/data?entity=2990961382) collected in United States of America."
   href: /data?entity=2990961382&filter=eyJtdXN0Ijp7ImJhc2lzT2ZSZWNvcmQiOlsiRk9TU0lMX1NQRUNJTUVOIl19fQ%3D%3D&view=TABLE
   cta:

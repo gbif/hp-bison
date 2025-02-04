@@ -20,7 +20,7 @@ columns:
 
   - name: Management
     description: Proudly managed by the scientific community of the United States | #Can be Markdown
-      ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Possible_52-star_U.S._flag.svg/800px-Possible_52-star_U.S._flag.svg.png)
+      ![](/assets/images/graphics/640px-Flag_of_the_United_States_(Pantone).svg.png)
 
   - name: Contact
     description: | # Can be Markdown
