@@ -20,7 +20,7 @@ columns:
 
   - name: Management
     description: | #Can be Markdown
-      * proudly co-managed by the scientific community of the United States of America
+      co-managed by the scientific community of the USA
 
       ![](/assets/images/graphics/640px-Flag_of_the_United_States_(Pantone).png)
 
