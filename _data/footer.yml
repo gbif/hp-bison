@@ -19,7 +19,7 @@ columns:
       ![](/assets/images/graphics/NSF_Official_logo_resized.png).
 
   - name: Management
-    description: Proudly co-managed by the scientific community of the United States | #Can be Markdown
+    description: 'Proudly co-managed by the scientific community of the United States' | #Can be Markdown
       ![](/assets/images/graphics/640px-Flag_of_the_United_States_(Pantone).svg.png)
 
   - name: Contact
