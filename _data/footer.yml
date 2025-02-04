@@ -19,8 +19,8 @@ columns:
       ![](/assets/images/graphics/NSF_Official_logo_resized.png).
 
   - name: Management
-    description: | #Can be Markdown
-      ![](/assets/images/graphics/USGS_ID_white-on-green_resized.png)
+    description: Proudly managed by the scientific community of the United States | #Can be Markdown
+      ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Possible_52-star_U.S._flag.svg/800px-Possible_52-star_U.S._flag.svg.png)
 
   - name: Contact
     description: | # Can be Markdown
