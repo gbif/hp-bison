@@ -2,7 +2,7 @@
 title: "GBIF Graduate Researchers Award Call" 
 date: 2025-02-06 09:00:00 -0500 
 categories: ["Announcement"] 
-background: /assets/images/graphics/peep-sitting-7-1.png
+background: /assets/images/graphics/bluenose_shiner_FWC.jpg
 preTitle: January 06, 2025
 ---
 
