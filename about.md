@@ -2,9 +2,9 @@
 lang-ref: about
 title: What is GBIF-US?
 # description: Species occurrence data for the United States and U.S. Territories.
-background: "https://inaturalist-open-data.s3.amazonaws.com/photos/459232386/large.jpeg"
-imageLicense: Mallard (_Anas platyrhynchos_) Washington DC, USA. by
-  Jeff Davis [inaturalist.org](https://www.inaturalist.org/photos/459232386), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+background: "https://inaturalist-open-data.s3.amazonaws.com/photos/461095510/original.jpg"
+imageLicense: Violet Zoanthids (_Zoanthus sansibaricus_) Washington DC, USA. by
+  Steph Brulot-Sawchyn [inaturalist.org](https://www.inaturalist.org/photos/461095510), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 height: 60vh
 ---
 
