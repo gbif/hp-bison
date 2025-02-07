@@ -7,7 +7,7 @@ title: Species observations for the United States and Territories
 background: "https://inaturalist-open-data.s3.amazonaws.com/photos/459232386/original.jpeg"
 imageLicense: Mallard (_Anas platyrhynchos_) Washington DC, USA. by
   Jeff Davis [inaturalist.org](https://www.inaturalist.org/photos/459232386), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-height: 55vh
+height: 75vh
 parallax: true
 cta:
   - text: Explore Data
