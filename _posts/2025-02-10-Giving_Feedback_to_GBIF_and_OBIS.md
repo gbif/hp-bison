@@ -1,7 +1,7 @@
 ---
 title: "Food for Feedingback" 
 date: 2025-02-06 09:00:00 -0500 
-categories: ["Announcement"] 
+categories: ["Data Tips"] 
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/448708902/original.jpeg
 imageLicense: Wolf's Milk (_Lycogala epidendrum_) Marrowstone, WA, USA. by
   Giselle Blythe [inaturalist.org](https://www.inaturalist.org/photos/448708902), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
