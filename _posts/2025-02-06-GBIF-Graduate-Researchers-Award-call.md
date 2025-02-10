@@ -17,7 +17,7 @@ The deadline for US applications is **May 27, 2025**. This award is aimed at gra
 
 **Eligibility**
 
-- Candidates must provide a letter of support verifying their affiliation with a university graduate programme (as a currently enrolled master's or post-doctoral student) to be eligible for the award. In addition, candidates must be either:
+- Candidates must provide a letter of support verifying their affiliation with a university graduate programme (as a currently enrolled master's, PhD, or post-doctoral student) to be eligible for the award. In addition, candidates must be either:
 
 	- a) citizens of a country participating in GBIF or
     - b) students at an institution located in a GBIF participant country.
