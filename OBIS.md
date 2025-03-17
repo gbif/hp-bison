@@ -1,3 +1,10 @@
+---
+layout: default
+title: OBIS API Test
+---
+
+### This is an OBIS API Test
+
 <div class="container" id="numbers" style="display:none">
     <div class="d-flex flex-row flex-wrap justify-content-around mb-4">
         <div class="text-center">
