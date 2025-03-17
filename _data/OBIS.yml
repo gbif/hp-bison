@@ -1,8 +1,0 @@
-stats:
-  #title: "type: stats"
-  description: 
-  features:
-    - title: <span data-ajax-url="https://api.obis.org/v3/statistics?areaid=266">100,000</span>
-      description: Datasets
-      background: /assets/images/icons/database-line-icon.png
-      href: https://api.obis.org/v3/statistics?areaid=266
