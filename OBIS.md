@@ -1,30 +1,24 @@
 ---
 lang-ref: home
-layout: home
-# preTitle: GBIF.US
-title: Species observations for the United States and Territories
-# description: Species occurrences for the United States and U.S. Territories.
-background: "https://inaturalist-open-data.s3.amazonaws.com/photos/459232386/original.jpeg"
-imageLicense: Mallard (_Anas platyrhynchos_) Washington DC, USA. by
-  Jeff Davis [inaturalist.org](https://www.inaturalist.org/photos/459232386), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-height: 75vh
-parallax: true
-cta:
-  - text: Explore Data
-    href: /data
-    isPrimary: true
-  - text: About
-    href: /about
-permalink: /
-klass: home
-navbar:
-    color: transparent
-    hasWhiteText: true
-    floating: true
-composition:
-  - type: heroImage # the block type
-  - data: OBIS.stats
-    type: stats
+layout:stats
+  description: 
+  features:
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7B%0A%20%20%20%20%20%20type%3A%20and%0A%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%20type%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22US%22%20%7D%0A%20%20%20%20%20%20%20%20%7B%20type%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%20%7D%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">9,000,000</span>
+      description: Occurrences
+      background: /assets/images/icons/maps-pin-line-icon.png
+      href: /data
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=US&limit=0">100,000</span>
+      description: Datasets
+      background: /assets/images/icons/database-line-icon.png
+      href: https://www.gbif.org/dataset/search?publishing_country=US
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=US&limit=0&isEndorsed=true">100,000</span>
+      description: Publishers
+      background: /assets/images/icons/innovative-brain-icon.png
+      href: https://www.gbif.org/publisher/search?country=US
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?contentType=literature&countriesOfResearcher=US&limit=0">100,000</span>
+      description: Literature
+      background: /assets/images/icons/read-book-icon.png
+      href: /literature
 ---
 
 ### This is an OBIS API Test
