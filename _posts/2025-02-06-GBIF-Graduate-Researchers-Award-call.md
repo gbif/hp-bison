@@ -4,7 +4,7 @@ date: 2025-02-06 09:00:00 -0500
 categories: ["Announcement"] 
 background: /assets/images/graphics/people.jpg
 imageLicense: People, created by Stephen Formel from Open Peeps by Pablo Stanley [https://www.openpeeps.com/](https://www.openpeeps.com/), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-preTitle: Febreaury 06, 2025
+preTitle: February 06, 2025
 ---
 
 GBIF has announced its [call for nominations for the 2025 GBIF Graduate Researchers Award](https://www.gbif.org/news/4AAE2KOKBRJ0iS2DE2fT65/call-for-nominations-opens-for-2025-gbif-graduate-researchers-award). Share how you're using open biodiversity data from the GBIF network in your graduate research—you could **earn global recognition and €5,000!**
