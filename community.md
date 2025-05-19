@@ -35,13 +35,14 @@ height: 50vh
 ## US Delegation
 
 - [Katharina Dittmar](https://www.gbif.org/contact-us/directory?personId=4369), Head of delegation, National Science Foundation
-- [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Delegate, Node manager, U.S. Geological Survey
+- [Steve Formel](https://www.gbif.org/contact-us/directory?personId=4368), Delegate, Ocean Biodiversity Information System (OBIS)
 - [Thomas Orrell](https://www.gbif.org/contact-us/directory?personId=138), Delegate, Smithsonian Institution
 - [Martin Kalfatovic](https://www.gbif.org/contact-us/directory?personId=3706), Delegate, International Image Interoperability Framework
 - [Sharon Grant](https://www.gbif.org/contact-us/directory?personId=4318), Delegate, Field Museum of Natural History
 - [Mark Wiltermuth](), Delegate, U.S. Geological Survey
 - [David Jennings](https://www.gbif.org/contact-us/directory?personId=3940), Delegate, iDigBio
 - [JJ Dearborn](https://www.gbif.org/contact-us/directory?personId=4379), Delegate, Biodiversity Heritage Library
+- [Kelsey Huelsman](), Delegate, NASA
 
 <a name="nodes"></a>Participant Nodes
 ------------
