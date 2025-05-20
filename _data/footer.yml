@@ -27,7 +27,7 @@ columns:
   - name: Contact
     description: | # Can be Markdown
       
-      * gbif-us@usgs.gov
+      * kdittmar@nsf.gov
     connectIcons: false
 other: |
   [Privacy policy](/privacy)
