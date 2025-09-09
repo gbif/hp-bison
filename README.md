@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-bison
 
-This Jekyll website, **[hp-bison](https://hp-bison.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network. 
+This Jekyll website, **[hp-bison](https://bison.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network. 
 
 This portal is co-managed by the scientific community of the United States. Currently this includes representatives from USGS, iDigBio, VertNet, Symbiota Support Hub, and the Vermont Atlas of Life.  If you would like to get involved, you are welcome to submit issues and pull requests. If you are interested in more formal involvement, please pull an issue with that request and we can discuss possibilites there.
 
