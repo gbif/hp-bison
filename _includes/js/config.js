@@ -1,29 +1,75 @@
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary,
-    fontSize: '16px'
-  }
-});
-
 var siteConfig = {
-  routes: {
-    occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      route: '/data'
+  "version": 3,
+  "pages": [
+    {
+      "id": "occurrenceSearch",
+      "path": "data"
     },
-    literatureSearch: {
-      route: '/literature'
+    {
+      "id": "literatureSearch",
+      "path": "literature"
+    }
+  ],
+  "disableInlineTableFilterButtons": false,
+  "availableCatalogues": [
+    "OCCURRENCE",
+    "LITERATURE"
+  ],
+  "dataHeader": {
+    "enableApiPopup": false,
+    "enableInfoPopup": false
+  },
+  "theme": {
+    "primary": themeStyle.colors.primary,
+    "borderRadius": 3,
+    "stickyOffset": "0px"
+  },
+  "maps": {
+    "mapStyles": {
+      "defaultProjection": "MERCATOR",
+      "defaultMapStyle": "BRIGHT",
+      "options": {
+        "MERCATOR": [
+          "BRIGHT",
+          "NATURAL"
+        ]
+      }
     }
   },
-  occurrence: {
-    rootPredicate: {
+  "languages": [
+    {
+      "code": "en",
+      "localeCode": "en",
+      "label": "English",
+      "default": true,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "vocabularyLocale": "en",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    }
+  ],
+  "messages": {},
+  "occurrenceSearch": {
+    "scope": {
       "type": "and",
       "predicates": [
         {
           "type": "in",
           "key": "country",
-          "values": ["US", "UM", "AS", "FM", "GU", "MH", "MP", "PR", "PW", "VI"]
+          "values": [
+            "US",
+            "UM",
+            "AS",
+            "FM",
+            "GU",
+            "MH",
+            "MP",
+            "PR",
+            "PW",
+            "VI"
+          ]
         },
         {
           "type": "equals",
@@ -32,25 +78,63 @@ var siteConfig = {
         }
       ]
     },
-    highlightedFilters: ['taxonKey', 'occurrenceStatus', 'gadmGid', 'year', 'datasetName', 'occurrenceIssue', 'datasetKey']
+    "highlightedFilters": [
+      "taxonKey",
+      "occurrenceStatus",
+      "gadmGid",
+      "year",
+      "datasetName",
+      "issue",
+      "datasetKey"
+    ]
   },
-  literature: {
-    rootFilter: {
-      predicate: {
-        type: 'or', predicates: [
-          {
-            type: 'in',
-            key: 'countriesOfResearcher',
-            values: ['US', 'UM', 'AS', 'FM', 'GU', 'MH', 'MP', 'PR', 'PW', 'VI']
-          },
-          {
-            type: 'in',
-            key: 'countriesOfCoverage',
-            values: ['US', 'UM', 'AS', 'FM', 'GU', 'MH', 'MP', 'PR', 'PW', 'VI']
-          }
-        ]
-      }
+  "collectionSearch": {},
+  "institutionSearch": {},
+  "datasetSearch": {},
+  "publisherSearch": {},
+  "literatureSearch": {
+    "scope": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "in",
+          "key": "countriesOfResearcher",
+          "values": [
+            "US",
+            "UM",
+            "AS",
+            "FM",
+            "GU",
+            "MH",
+            "MP",
+            "PR",
+            "PW",
+            "VI"
+          ]
+        },
+        {
+          "type": "in",
+          "key": "countriesOfCoverage",
+          "values": [
+            "US",
+            "UM",
+            "AS",
+            "FM",
+            "GU",
+            "MH",
+            "MP",
+            "PR",
+            "PW",
+            "VI"
+          ]
+        }
+      ]
     },
-    highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
+    "highlightedFilters": [
+      "q",
+      "countriesOfResearcher",
+      "countriesOfCoverage",
+      "year"
+    ]
   }
 };
