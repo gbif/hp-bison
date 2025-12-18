@@ -44,6 +44,12 @@ height: 50vh
 - [JJ Dearborn](https://www.gbif.org/contact-us/directory?personId=4379), Delegate, Biodiversity Heritage Library
 - [Kelsey Huelsman](), Delegate, NASA
 
+## US Node Staff
+
+- [Libby Ellwood](https://gbif.org/contact-us/directory?personId=4126)
+- [Cat Chapman](https://gbif.org/contact-us/directory?personId=4324)
+- [Jesse Grosso](https://gbif.org/contact-us/directory?personId=4430)
+
 <a name="nodes"></a>Participant Nodes
 ------------
 ### Nodes
