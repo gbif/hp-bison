@@ -7,7 +7,7 @@ imageLicense: Illustration of an Eastern Tarsier (Tarsius tarsier (Erxleben, 177
 preTitle: May 01, 2026
 ---
 
-The Global Biodiversity Information Facility (GBIF) has opened the call for nominations for the **2026 GBIF Graduate Researchers Award**, an annual program recognizing exceptional graduate research that advances biodiversity science through the use of open data.
+The Global Biodiversity Information Facility (GBIF) has opened the call for nominations for the [**2026 GBIF Graduate Researchers Award**](https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations), an annual program recognizing exceptional graduate research that advances biodiversity science through the use of open data.
 Each year, GBIF honors two graduate students—one master’s and one PhD—whose work demonstrates innovative use of GBIF-mediated biodiversity data. Awardees are selected through an international review process coordinated by the GBIF Science Committee and each receive a €5,000 prize. Winners will be announced in advance of the 2026 GBIF Governing Board meeting.
 
 #### Eligibility
