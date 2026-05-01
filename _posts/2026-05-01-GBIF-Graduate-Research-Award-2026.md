@@ -27,8 +27,8 @@ The U.S. node, GBIF.US, will coordinate the national selection process and submi
 
 Students in the United States who wish to be considered for nomination should work with their advisors to prepare materials and **contact GBIF.US as early as possible** to express interest and receive submission instructions.
 
-To be considered for the U.S. nomination, please contact:
-📧gbif.na.helpdesk@gmail.com
+To be considered for the U.S. nomination, please contact Libby Ellwood:
+📧eellwood@floridamuseum.ufl.edu
 
 Because the U.S. node must review and select candidates ahead of the global deadline, **internal deadlines will occur earlier than the GBIF submission deadline**. Prospective nominees are strongly encouraged to reach out well in advance.
 
