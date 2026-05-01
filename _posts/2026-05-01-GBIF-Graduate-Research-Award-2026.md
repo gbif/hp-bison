@@ -25,7 +25,7 @@ As with previous years, **students may not apply directly**. Nominations must be
 The U.S. node, GBIF.US, will coordinate the national selection process and submit up to **two nominations** to GBIF.
 
 
-Students in the United States who wish to be considered for nomination should work with their advisors to prepare materials and **contact GBIF.US as early as possible** to express interest and receive submission instructions.
+Students in the United States who wish to be considered for nomination should work with their advisors to prepare materials and **contact GBIF.US by 15 May 2026** to express interest and receive submission instructions.
 
 To be considered for the U.S. nomination, please contact Libby Ellwood:
 📧eellwood@floridamuseum.ufl.edu
