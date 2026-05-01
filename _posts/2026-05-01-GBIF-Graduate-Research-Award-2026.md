@@ -2,8 +2,8 @@
 title: "2026 GBIF Graduate Researchers Award: Call for Nominations" 
 date: 2026-05-01 
 categories: ["Announcement"] 
-background: /assets/images/graphics/people.jpg
-imageLicense: People, created by Stephen Formel from Open Peeps by Pablo Stanley [https://www.openpeeps.com/](https://www.openpeeps.com/), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+background: /assets/images/graphics/GRA-2026.png
+imageLicense: Illustration of an Eastern Tarsier (Tarsius tarsier (Erxleben, 1777)) from Beiträge zur näheren Kenntniss der Gattung Tarsius by Hermann Burmeister. G. Reimer (1846) under Public Domain via Biodiversity Heritage Library
 preTitle: May 01, 2026
 ---
 
