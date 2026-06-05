@@ -1,5 +1,5 @@
 ---
-title: "GBIF North America Webinar: Parallel Publishing to GBIF & OBIS"
+title: "GBIF North America Webinar: Improving Data Quality at the Source: A Data Quality Toolkit for Biocollections"
 date: 2026-06-05
 categories: ["Regional Meeting"]
 background: assets/images/graphics/GBIF%20NA%20Webinar%206-11-26-1.png
