@@ -1,6 +1,6 @@
 ---
 title: "GBIF North America Webinar: Parallel Publishing to GBIF & OBIS"
-date: 2026-06-11
+date: 2026-06-05
 categories: ["Regional Meeting"]
 background: assets/images/graphics/GBIF%20NA%20Webinar%206-11-26-1.png
 ---
