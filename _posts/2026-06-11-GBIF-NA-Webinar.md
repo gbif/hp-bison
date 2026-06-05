@@ -1,15 +1,13 @@
 ---
-title:  "GBIF North America Webinar: Parallel Publishing to GBIF & OBIS"
-date:   2026-06-11
+title: "GBIF North America Webinar: Parallel Publishing to GBIF & OBIS"
+date: 2026-06-11
 categories: ["Regional Meeting"]
-lang: en
-lang-ref: NA-Q1-webinar
-background: assets/images/graphics/GBIF NA Webinar 6-11-26-1.png
+background: assets/images/graphics/GBIF%20NA%20Webinar%206-11-26-1.png
 ---
 
 Ever wondered how you can improve your data quality? If you have, this webinar is for you!
 
-On 11 June 2026 GBIF North America is hosting a webinar that will explore data quality issues:
+On 11 June 2026, GBIF North America is hosting a webinar that will explore data quality issues:
 
 Biocollections data often suffer from data quality issues that arise from the complexities of the digitization and mobilization processes, and these data quality issues can prevent the data from reaching its full potential for research and educational impact. Some data quality issues are complex, others are relatively simple to identify and fix and can provide momentum for further improvements. In this webinar, we will discuss several categories of common data quality issues in biocollections datasets, and we will share a toolbox of data quality checks and fixes that can be easily deployed in collection management systems or spreadsheets.
 
