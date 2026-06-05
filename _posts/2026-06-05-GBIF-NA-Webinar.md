@@ -3,7 +3,7 @@ title: "GBIF North America Webinar: Improving Data Quality at the Source: A Data
 date: 2026-06-05
 categories: ["Regional Meeting"]
 background: assets/images/graphics/GBIF%20NA%20Webinar%206-11-26_resized4x3.png
-background-size: 70vh
+background-size: 50vh
 ---
 
 Ever wondered how you can improve your data quality? If you have, this GBIF North America webinar is for you! 
