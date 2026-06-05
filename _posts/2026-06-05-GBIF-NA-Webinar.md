@@ -11,6 +11,5 @@ On 11 June 2026, GBIF North America is hosting a webinar that will explore data 
 
 Biocollections data often suffer from data quality issues that arise from the complexities of the digitization and mobilization processes, and these data quality issues can prevent the data from reaching its full potential for research and educational impact. Some data quality issues are complex, others are relatively simple to identify and fix and can provide momentum for further improvements. In this webinar, we will discuss several categories of common data quality issues in biocollections datasets, and we will share a toolbox of data quality checks and fixes that can be easily deployed in collection management systems or spreadsheets.
 
-Happening soon! [Register to Join](https://events.zoom.us/ev/Aqhr9vH7esHMJNIjuFWyzsj-O_0K0Nla13f3OYs0GNUmSdr-qY1K~ApozuhVigB_Ed_3AlP6blur3Uisvagw_4cNNBIodcwncMw3aEbNKDA9qQA) whenever you have a the time. The slide decks, Q & A and a raft of resources are all waiting for you.
-
+Happening soon! [Register to Join](https://events.zoom.us/ev/Aqhr9vH7esHMJNIjuFWyzsj-O_0K0Nla13f3OYs0GNUmSdr-qY1K~ApozuhVigB_Ed_3AlP6blur3Uisvagw_4cNNBIodcwncMw3aEbNKDA9qQA)
 Hope to see you there!
