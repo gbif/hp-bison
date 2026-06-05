@@ -2,7 +2,7 @@
 title: "GBIF North America Webinar: Improving Data Quality at the Source: A Data Quality Toolkit for Biocollections"
 date: 2026-06-05
 categories: ["Regional Meeting"]
-background: assets/images/graphics/GBIF%20NA%20Webinar%206-11-26-1.png{:width="640" height="360"}
+background: assets/images/graphics/GBIF%20NA%20Webinar%206-11-26-1.png
 ---
 
 Ever wondered how you can improve your data quality? If you have, this webinar is for you!
